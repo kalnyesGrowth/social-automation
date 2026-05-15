@@ -148,6 +148,23 @@ def build_user_prompt(pillar_key: str, platform: str, rotation: dict, intel: str
     pillar = PILLARS[pillar_key]
     plat = PLATFORMS[platform]
 
+    if platform == "instagram":
+        output_json = """{
+  "copy": "full post copy here",
+  "hashtags": "hashtag string here",
+  "image_prompts": [
+    "Slide 1 prompt: hook visual — emotional moment, stat, or question. 50–70 words, photorealistic, no text in image.",
+    "Slide 2 prompt: context/story visual — the pain or the journey. 50–70 words, photorealistic, no text in image.",
+    "Slide 3 prompt: transformation/solution visual — relief, success, or CTA mood. 50–70 words, photorealistic, no text in image."
+  ]
+}"""
+    else:
+        output_json = """{
+  "copy": "full post copy here",
+  "hashtags": "hashtag string here",
+  "image_prompt": "detailed cinematic image generation prompt (50–80 words, photorealistic, no text in image)"
+}"""
+
     return f"""Generate one social media post for today.
 
 ## Parameters
@@ -168,11 +185,7 @@ Hashtags: {plat['hashtags']}
 {performance}
 
 ## Output format — respond ONLY with valid JSON, no other text:
-{{
-  "copy": "full post copy here",
-  "hashtags": "hashtag string here",
-  "image_prompt": "detailed cinematic image generation prompt (50–80 words, photorealistic, no text in image)"
-}}"""
+{output_json}"""
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -229,6 +242,14 @@ def main():
                 continue
 
             post_id = f"{today}_{pillar_key}_{platform}"
+
+            # Instagram gets 3 prompts (carousel); other platforms get 1
+            if platform == "instagram":
+                prompts = result.get("image_prompts", [])
+                image_prompt_val = json.dumps(prompts) if prompts else ""
+            else:
+                image_prompt_val = result.get("image_prompt", "")
+
             posts.append({
                 "id": post_id,
                 "date": today,
@@ -240,11 +261,14 @@ def main():
                 "platform": platform,
                 "copy": result.get("copy", ""),
                 "hashtags": result.get("hashtags", ""),
-                "image_prompt": result.get("image_prompt", ""),
+                "image_prompt": image_prompt_val,
                 "post_time": pillar_data["post_time"],
                 "status": "pending",
                 "post_id": "",
                 "posted_at": "",
+                "image_url_1": "",
+                "image_url_2": "",
+                "image_url_3": "",
             })
             print(f"  ✅ Generated ({len(result.get('copy',''))} chars)")
 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.kalnyesgrowth.ig-images</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/jessyt_sw/web-design-clients/social-automation/scripts/run_ig_images.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jessyt_sw/web-design-clients/social-automation</string>
+
+    <!-- Run at 7:00 AM every day (30 min after GitHub Actions generates copy) -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/jessyt_sw/web-design-clients/social-automation/output/ig_images.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jessyt_sw/web-design-clients/social-automation/output/ig_images_err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

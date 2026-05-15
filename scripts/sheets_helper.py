@@ -33,6 +33,7 @@ QUEUE_HEADERS = [
     "id", "date", "week_num", "day_num", "niche", "theme",
     "pillar", "platform", "copy", "hashtags",
     "image_prompt", "post_time", "status", "post_id", "posted_at",
+    "image_url_1", "image_url_2", "image_url_3",
 ]
 
 
@@ -47,6 +48,33 @@ def write_daily_queue(posts: list[dict]):
 
     ws.append_rows(rows_to_append, value_input_option="RAW")
     print(f"  ✅ Wrote {len(rows_to_append)} posts to DAILY_QUEUE")
+
+
+def get_today_instagram_rows(today: str) -> list[tuple[int, dict]]:
+    """Returns list of (1-indexed row number, row dict) for today's pending Instagram posts."""
+    ws = get_sheet("DAILY_QUEUE")
+    all_values = ws.get_all_values()
+    if not all_values:
+        return []
+    headers = all_values[0]
+
+    results = []
+    for i, raw in enumerate(all_values[1:], start=2):
+        row = {h: (raw[j] if j < len(raw) else "") for j, h in enumerate(headers)}
+        if row.get("date") == today and row.get("platform") == "instagram" and row.get("status") == "pending":
+            results.append((i, row))
+    return results
+
+
+def update_image_urls(row_index: int, url1: str, url2: str, url3: str):
+    ws = get_sheet("DAILY_QUEUE")
+    all_values = ws.get_all_values()
+    headers = all_values[0] if all_values else []
+
+    for col_name, val in [("image_url_1", url1), ("image_url_2", url2), ("image_url_3", url3)]:
+        if col_name in headers:
+            col_idx = headers.index(col_name) + 1
+            ws.update_cell(row_index, col_idx, val)
 
 
 def update_post_status(row_index: int, status: str, post_id: str = ""):
