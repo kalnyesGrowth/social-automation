@@ -1,0 +1,38 @@
+name: Morning Content Generator
+
+on:
+  schedule:
+    # 6:30 AM Eastern (UTC-4 in summer = 10:30 UTC)
+    - cron: "30 10 * * *"
+  workflow_dispatch: # allows manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write service account credentials
+        run: echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}' > service_account.json
+
+      - name: Generate daily content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ./service_account.json
+        run: python3 scripts/morning_content.py
+
+      - name: Upload backup posts
+        uses: actions/upload-artifact@v4
+        with:
+          name: posts-${{ github.run_id }}
+          path: output/posts_*.json
+          retention-days: 30

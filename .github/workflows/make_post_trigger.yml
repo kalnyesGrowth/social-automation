@@ -1,0 +1,61 @@
+name: Trigger Social Posts via Make.com
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 8 AM ET (UTC-4 in summer)
+    - cron: "0 16 * * *"   # 12 PM ET
+    - cron: "0 21 * * *"   # 5 PM ET
+  workflow_dispatch:
+    inputs:
+      pillar:
+        description: "Pillar to post (A=8am, B=12pm, C=5pm)"
+        required: true
+        default: "A"
+        type: choice
+        options: ["A", "B", "C"]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolve pillar from schedule
+        id: vars
+        run: |
+          SCHEDULE="${{ github.event.schedule }}"
+          DATE=$(TZ="America/New_York" date +%Y-%m-%d)
+          if [ "$SCHEDULE" = "0 12 * * *" ]; then
+            PILLAR="A"
+            POST_TIME="08:00"
+          elif [ "$SCHEDULE" = "0 16 * * *" ]; then
+            PILLAR="B"
+            POST_TIME="12:00"
+          elif [ "$SCHEDULE" = "0 21 * * *" ]; then
+            PILLAR="C"
+            POST_TIME="17:00"
+          else
+            # Manual workflow_dispatch
+            PILLAR="${{ github.event.inputs.pillar }}"
+            if [ "$PILLAR" = "A" ]; then POST_TIME="08:00";
+            elif [ "$PILLAR" = "B" ]; then POST_TIME="12:00";
+            else POST_TIME="17:00"; fi
+          fi
+          echo "pillar=$PILLAR" >> $GITHUB_OUTPUT
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "post_time=$POST_TIME" >> $GITHUB_OUTPUT
+          echo "Triggering: Pillar=$PILLAR  Date=$DATE  Time=$POST_TIME"
+
+      - name: Call Make.com webhook
+        run: |
+          PAYLOAD='{"pillar":"${{ steps.vars.outputs.pillar }}","date":"${{ steps.vars.outputs.date }}","post_time":"${{ steps.vars.outputs.post_time }}"}'
+          echo "Payload: $PAYLOAD"
+          HTTP_STATUS=$(curl -s -o /tmp/response.txt -w "%{http_code}" \
+            -X POST \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD" \
+            "${{ secrets.MAKE_WEBHOOK_URL }}")
+          echo "Response: $(cat /tmp/response.txt)"
+          echo "HTTP status: $HTTP_STATUS"
+          if [ "$HTTP_STATUS" != "200" ]; then
+            echo "Webhook failed with status $HTTP_STATUS"
+            exit 1
+          fi
