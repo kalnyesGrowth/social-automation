@@ -277,6 +277,7 @@ def main():
 
     # Also save local backup
     backup_path = os.path.join(os.path.dirname(__file__), f"../output/posts_{today}.json")
+    os.makedirs(os.path.dirname(backup_path), exist_ok=True)
     with open(backup_path, "w") as f:
         json.dump(posts, f, indent=2)
     print(f"   Backup saved: output/posts_{today}.json")
