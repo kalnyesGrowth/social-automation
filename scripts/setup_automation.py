@@ -241,12 +241,92 @@ def set_github_secrets():
         print(f"   {name}: {'SET' if status in (201, 204) else f'ERROR {status}'}")
 
 
+# ── Facebook re-enable ────────────────────────────────────────────────────────
+
+def enable_facebook(api_token):
+    """
+    Reads the live scenario's Facebook module to get the current page_id
+    (after user has fixed it in the Make.com editor), updates make_fixed_blueprint.json,
+    and re-pushes.
+    """
+    print("[FB] Reading live blueprint to get current Facebook page_id...")
+    status, d = make_request("GET", f"/scenarios/{SCENARIO_ID}/blueprint", api_token=api_token)
+    if status != 200:
+        print(f"   ERROR {status}: {d}")
+        sys.exit(1)
+
+    bp = d.get("response", d).get("blueprint", {})
+    router = next((m for m in bp.get("flow", []) if m.get("module") == "builtin:BasicRouter"), None)
+    if not router:
+        print("   ERROR: Router module not found in live blueprint")
+        sys.exit(1)
+
+    fb_module = None
+    for route in router.get("routes", []):
+        for mod in route.get("flow", []):
+            if mod.get("module") == "facebook-pages:CreatePost":
+                fb_module = mod
+                break
+
+    if not fb_module:
+        print("   ERROR: Facebook module not found in live blueprint")
+        sys.exit(1)
+
+    live_page_id = fb_module.get("mapper", {}).get("page_id", "")
+    live_filter = fb_module.get("filter", {}).get("conditions", [[]])[0]
+    current_filter_val = live_filter[0].get("b", "") if live_filter else ""
+
+    print(f"   Live page_id: {live_page_id}")
+    print(f"   Live filter value: {current_filter_val}")
+
+    if not live_page_id or live_page_id == "1075704708966809":
+        print("\n   Facebook page_id is still the old invalid value.")
+        print("   Fix it first:")
+        print(f"   1. Open https://us2.make.com/scenarios/{SCENARIO_ID}/edit")
+        print("   2. Click the Facebook module → re-select 'Kalnyes Growth' page")
+        print("   3. Save the scenario in the editor")
+        print("   4. Re-run: python3 scripts/setup_automation.py --enable-facebook")
+        sys.exit(1)
+
+    # Update local blueprint file
+    with open(BLUEPRINT_PATH) as f:
+        outer = json.load(f)
+    inner = outer["blueprint"]
+
+    router_local = next((m for m in inner.get("flow", []) if m.get("module") == "builtin:BasicRouter"), None)
+    for route in router_local.get("routes", []):
+        for mod in route.get("flow", []):
+            if mod.get("module") == "facebook-pages:CreatePost":
+                mod["mapper"]["page_id"] = live_page_id
+                mod["filter"]["conditions"] = [[{"a": "{{3.`7`}}", "b": "facebook", "o": "text:equal"}]]
+                mod["filter"]["name"] = "Facebook"
+                print(f"   Updated local blueprint: page_id={live_page_id}, filter='facebook'")
+
+    with open(BLUEPRINT_PATH, "w") as f:
+        json.dump(outer, f, indent=2)
+
+    print("\n[FB] Pushing updated blueprint...")
+    push_and_activate(api_token)
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--enable-facebook", action="store_true",
+                        help="Read page_id from live scenario and re-enable the Facebook route")
+    args = parser.parse_args()
+
     print("=== Kalnyes Growth — Automation Setup ===\n")
 
     api_token = get_api_token()
+
+    if args.enable_facebook:
+        enable_facebook(api_token)
+        print("\n=== DONE — Facebook is now enabled ===")
+        return
+
     push_and_activate(api_token)
     set_github_secrets()
 
@@ -260,10 +340,8 @@ def main():
     print("  12:00pm ET — Pillar B posts: LinkedIn live, Instagram (if image ready)")
     print("  5:00pm ET  — Pillar C posts: LinkedIn live, Instagram (if image ready)")
     print("")
-    print("Facebook is still disabled — to enable:")
-    print("  1. Open https://us2.make.com/scenarios/5071326/edit")
-    print("  2. Click the Facebook module → re-select 'Kalnyes Growth' page")
-    print("  3. Change the route filter from 'facebook_DISABLED' → 'facebook'")
+    print("Facebook is still disabled. To enable it after fixing the page in Make.com:")
+    print("  python3 scripts/setup_automation.py --enable-facebook")
 
 
 if __name__ == "__main__":
