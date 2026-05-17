@@ -4,6 +4,7 @@ Kalnyes Growth — Morning Content Generator
 Runs daily at 6:30 AM via GitHub Actions.
 Generates 9 posts (3 pillars × 3 platforms) and writes to Google Sheets DAILY_QUEUE.
 """
+from __future__ import annotations
 import os
 import sys
 import json

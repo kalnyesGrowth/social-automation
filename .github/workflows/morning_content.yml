@@ -30,6 +30,29 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT_JSON: ./service_account.json
         run: python3 scripts/morning_content.py
 
+      - name: Install Higgsfield CLI
+        continue-on-error: true
+        run: curl -fsSL https://raw.githubusercontent.com/higgsfield-ai/cli/main/install.sh | sh
+
+      - name: Configure Higgsfield credentials
+        continue-on-error: true
+        env:
+          HIGGSFIELD_ACCESS_TOKEN: ${{ secrets.HIGGSFIELD_ACCESS_TOKEN }}
+          HIGGSFIELD_REFRESH_TOKEN: ${{ secrets.HIGGSFIELD_REFRESH_TOKEN }}
+        run: |
+          [ -z "$HIGGSFIELD_ACCESS_TOKEN" ] && echo "HIGGSFIELD secrets not set — skipping image gen" && exit 0
+          mkdir -p ~/.config/higgsfield
+          printf '{"access_token":"%s","refresh_token":"%s"}' \
+            "$HIGGSFIELD_ACCESS_TOKEN" "$HIGGSFIELD_REFRESH_TOKEN" \
+            > ~/.config/higgsfield/credentials.json
+
+      - name: Generate Instagram carousel images
+        continue-on-error: true
+        env:
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ./service_account.json
+        run: python3 scripts/generate_ig_images.py
+
       - name: Upload backup posts
         uses: actions/upload-artifact@v4
         with:
