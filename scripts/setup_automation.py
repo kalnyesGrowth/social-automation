@@ -55,6 +55,7 @@ def make_request(method, path, body=None, api_token=None):
             "Authorization": f"Token {api_token}",
             "Content-Type": "application/json",
             "Accept": "application/json",
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         },
         method=method
     )
@@ -122,6 +123,7 @@ def push_and_activate(api_token):
     print(f"   Scenario: '{scenario_name}'  currently active={is_active}")
 
     print(f"\n[3] Pushing blueprint to scenario {SCENARIO_ID}...")
+    # API token endpoint requires blueprint as a JSON string (not object)
     status, data = make_request(
         "PATCH",
         f"/scenarios/{SCENARIO_ID}",
@@ -132,12 +134,17 @@ def push_and_activate(api_token):
     if not (200 <= status < 300):
         print(f"   ERROR: {data}")
         sys.exit(1)
+    # PATCH response returns scenario metadata only (no blueprint field); verify via GET
+    is_invalid_after_patch = data.get("scenario", {}).get("isinvalid")
+    print(f"   Blueprint saved  (isinvalid={is_invalid_after_patch})")
 
-    saved_bp = data.get("scenario", {}).get("blueprint", {})
-    saved_flow = [m.get("id") for m in saved_bp.get("flow", [])]
-    saved_orphans = saved_bp.get("metadata", {}).get("designer", {}).get("orphans", [])
-    is_invalid = data.get("scenario", {}).get("isinvalid")
-    print(f"   Saved: flow={saved_flow}  orphans={saved_orphans}  isinvalid={is_invalid}")
+    # Confirm via GET blueprint
+    status2, bp_data = make_request("GET", f"/scenarios/{SCENARIO_ID}/blueprint", api_token=api_token)
+    if status2 == 200:
+        bp = bp_data.get("response", bp_data).get("blueprint", {})
+        saved_flow = [m.get("id") for m in bp.get("flow", [])]
+        saved_orphans = bp.get("metadata", {}).get("designer", {}).get("orphans", [])
+        print(f"   Verified: flow={saved_flow}  orphans={saved_orphans}")
 
     print(f"\n[4] Activating scenario {SCENARIO_ID}...")
     status, data = make_request("POST", f"/scenarios/{SCENARIO_ID}/start", body={}, api_token=api_token)
@@ -147,7 +154,8 @@ def push_and_activate(api_token):
     is_invalid = scenario.get("isinvalid")
     print(f"   isActive={is_active}  isinvalid={is_invalid}")
 
-    if is_active:
+    already_running = "already running" in str(data)
+    if is_active or already_running:
         print("   SCENARIO IS ACTIVE")
     elif is_invalid:
         print(f"   WARNING: isinvalid=True — check scenario for validation errors")
