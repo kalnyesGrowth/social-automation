@@ -1,0 +1,2057 @@
+{
+  "generated_at": "2026-05-21 16:18",
+  "today": "2026-05-21",
+  "stats": {
+    "total": 103,
+    "posted": 0,
+    "pending": 103,
+    "skipped": 0,
+    "today_count": 4,
+    "images_generated": 18
+  },
+  "platform_colors": {
+    "Facebook": "#1877F2",
+    "Instagram": "#E1306C",
+    "LinkedIn": "#0A66C2",
+    "Twitter/X": "#e7e9ea"
+  },
+  "by_platform": {
+    "Facebook": {
+      "total": 30,
+      "posted": 0,
+      "pending": 30
+    },
+    "Instagram": {
+      "total": 30,
+      "posted": 0,
+      "pending": 30
+    },
+    "Twitter/X": {
+      "total": 30,
+      "posted": 0,
+      "pending": 30
+    },
+    "LinkedIn": {
+      "total": 13,
+      "posted": 0,
+      "pending": 13
+    }
+  },
+  "by_theme": {
+    "mobile_broken": 11,
+    "diy_fail": 11,
+    "missed_revenue": 11,
+    "first_impression": 11,
+    "no_website": 10,
+    "outdated_site": 10,
+    "no_google": 10,
+    "competitor_wins": 10,
+    "social_not_enough": 10,
+    "no_trust": 9
+  },
+  "today_posts": [
+    {
+      "date": "2026-05-21",
+      "platform": "Facebook",
+      "theme": "diy_fail",
+      "content": "🚨 Attention contractor owners in the area:\n\nDIY websites are killing your credibility.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "Instagram",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility 📱\n\nA site that looks amateur tells customers your work is amateur too.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "LinkedIn",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nA site that looks amateur tells customers your work is amateur too.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "Twitter/X",
+      "theme": "diy_fail",
+      "content": "No website in 2026 = you don't exist.\n\nDIY websites are killing your credibility.\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    }
+  ],
+  "today_pipeline": [
+    {
+      "platform": "Facebook",
+      "theme": "no_google",
+      "post_copy": "Dave runs a landscaping company. Has for 11 years.\n\nHe's good at what he does. His customers love him. He has a 5-star rating on Google.\n\nBut last Tuesday, I Googled \"landscaper near me\" in his city.\n\nHe wasn't there.\n\nNot on page 1. Not page 2. Not anywhere.\n\nThree of his competitors showed up — businesses half his size, half his experience, charging more.\n\nI called Dave and told him.\n\nHe said, \"Yeah, I know. My daughter keeps telling me to fix the website.\"\n\nHere's what Dave didn't know:\n\n97% of people looking for local services start on Google. Not Facebook. Not Instagram. Google.\n\nEvery week Dave isn't showing up, he's handing customers to his competitors on a silver platter.\n\nI built Dave a new website. Mobile-optimized. Google-indexed within 48 hours. On page 1 within 3 weeks.\n\nHe got his first Google lead the following month. Then another. Then three in one week.\n\n$400 one-time. No monthly fees. Done in 7 days. He owns it forever.\n\nIf Dave's story sounds familiar — if YOUR business isn't showing up when people search for what you do — let's talk.\n\nDM me the word GOOGLE and I'll pull a free audit of your online visibility right now.\n\n#LocalBusiness #WebDesign #GoogleSearch #SmallBusiness #LocalSEO #WebsiteDesign #BusinessGrowth #DigitalMarketing #LocalMarketing #BusinessOwner",
+      "image_headline": "YOUR BUSINESS IS INVISIBLE ON GOOGLE",
+      "image_subtext": "$400 fix. 7 days. Show up where customers are already searching.",
+      "image_visual_prompt": "A tired middle-aged male tradesman sitting in his work truck at dusk, staring at his phone with a defeated expression. On the phone screen, visible over his shoulder, a Google search results page shows three competitor businesses ranked at the top but his business is missing. The truck cab is lit by the cold glow of the phone screen against warm golden hour light outside. Cinematic realism, documentary photography style, shallow depth of field.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "Facebook",
+      "theme": "no_google",
+      "post_copy": "5 reasons your local business isn't showing up on Google:\n\n1. NO WEBSITE (or one Google can't read)\nGoogle needs a real, indexed page to rank you. A Facebook page doesn't count. An Instagram bio doesn't count.\n\n2. YOUR SITE ISN'T MOBILE-OPTIMIZED\n65% of Google searches happen on phones. Google penalizes sites that break on mobile. If it looks bad on a phone, you're invisible.\n\n3. NO GOOGLE BUSINESS PROFILE LINKED TO YOUR SITE\nThese two work together. Google Maps listing + real website = visibility. One without the other is half an engine.\n\n4. NO LOCATION-SPECIFIC CONTENT\n\"Best plumber\" means nothing to Google. \"Best plumber in [YOUR CITY]\" is what gets you found by people ready to call today.\n\n5. YOUR COMPETITOR PAID $400\nThat's it. That's the whole game. They paid for a real website. They show up. They get the call.\n\nI build websites for local businesses. $400 one-time. Done in 5–7 days. Google-indexed. Mobile-ready. You own it forever. No monthly fees.\n\nYour competitors are collecting your customers right now.\n\nDM me AUDIT for a free Google visibility check — I'll show you exactly where you're losing leads.\n\n#LocalBusiness #GoogleRanking #WebDesign #LocalSEO #SmallBusinessOwner #BusinessGrowth #WebsiteDesign #LocalMarketing #DigitalMarketing #GoogleMyBusiness",
+      "image_headline": "5 REASONS GOOGLE IGNORES YOUR BUSINESS",
+      "image_subtext": "All 5 have the same fix. $400. Done in 7 days.",
+      "image_visual_prompt": "Overhead flat-lay shot of a smartphone on a dark wood desk showing a Google search results page for a local service business. Three competitor listings are visible with subtle green checkmarks beside them, and a fourth slot shows a faded ghost placeholder with a red X where a business should appear but doesn't. Dramatic top-down composition, moody dark tones with the phone screen as the only light source, high contrast commercial photography.",
+      "cta_type": "audit"
+    },
+    {
+      "platform": "Facebook",
+      "theme": "no_google",
+      "post_copy": "Quick challenge for local business owners:\n\nOpen Google right now.\n\nType your service + your city. \"Plumber in [your city].\" \"Restaurant near me.\" \"Contractor [your town].\"\n\nIs your business on page 1?\n\nBe honest.\n\nMost business owners who try this feel sick.\n\nBecause while THEY'VE been working — serving customers, doing good work, building their reputation — their competitors have been showing up on Google and collecting leads that should have been theirs.\n\nHere's the brutal part:\n\nGoogle doesn't care that you've been in business for 15 years. It doesn't care that your reviews are great. It doesn't care about your word-of-mouth reputation.\n\nGoogle cares about one thing: do you have a fast, mobile-ready, properly indexed website?\n\nIf not, you don't exist. Not to the 97% of buyers who search before they buy.\n\nI fix this for $400. In 5–7 days. You own the site forever.\n\nDM me AUDIT and I'll run a free check on your Google presence — I'll show you what it's actually costing you every month.\n\nHow'd you do on the challenge? Drop a 👍 if you showed up, or a 😬 if you didn't.\n\n#LocalBusiness #WebDesign #GoogleSearch #SmallBusiness #LocalSEO #BusinessGrowth #DigitalMarketing #WebsiteDesign #LocalMarketing #BusinessOwner",
+      "image_headline": "GOOGLE YOUR BUSINESS RIGHT NOW. GO AHEAD.",
+      "image_subtext": "97% of buyers search before they call. Are you there?",
+      "image_visual_prompt": "A female small business owner in a cafe, laptop open, leaning close to the screen with a shocked and troubled expression. The laptop screen shows a Google search results page — a competitor name is visible at the top while her business is nowhere to be seen. Warm cafe lighting, steam rising from a coffee cup, shallow depth of field, candid documentary photography feel.",
+      "cta_type": "audit"
+    },
+    {
+      "platform": "Instagram",
+      "theme": "no_google",
+      "post_copy": "Your customer just Googled your service.\nYou weren't there. Your competitor was.\n\nThat sale? Gone.\nThat lead? Gone.\nAnd it happens 10, 20, 50 times a month — silently.\n\nHere's what no one tells local business owners:\n\nGoogle doesn't care about your years of experience, your referrals, or your glowing reputation.\n\nIt cares about ONE thing: do you have a proper website?\n\nNot a Facebook page. Not an Instagram bio.\nA real, indexed, mobile-ready website that Google can read and rank.\n\n97% of people search Google before hiring a local service.\n97%.\n\nIf you're not there, you've handed those customers to someone else — someone who paid $400 for a website and showed up.\n\nThat's the whole game.\n\n$400. 5–7 days. Mobile-ready. Google-indexed. You own it forever. Zero monthly fees.\n\nDM me AUDIT — I'll pull your Google visibility report FREE. Right now. Today.\n\nThe longer you wait, the more leads your competitor collects.\n\n#LocalBusiness #GoogleSearch #WebDesign #LocalSEO #SmallBusiness #BusinessOwner #WebsiteDesign #LocalMarketing #DigitalMarketing #GoogleRanking #SmallBusinessMarketing #LocalBusinessOwner #BusinessGrowth #OnlineMarketing #WebsiteForBusiness #GoogleMyBusiness #LocalBusinessMarketing #BusinessTips #WebDesigner #MarketingTips",
+      "image_headline": "THEY SEARCHED. YOU WEREN'T THERE.",
+      "image_subtext": "Every day offline = leads your competitor collects.",
+      "image_visual_prompt": "Dramatic split composition: left half shows a hand holding a smartphone with a bright Google search results page — a competitor business listing glowing green at the top. Right half shows an identical phone in another hand but the screen is dark, no results, empty void where the business should appear. Dark moody background, high contrast studio lighting, cinematic commercial photography style.",
+      "cta_type": "audit"
+    },
+    {
+      "platform": "Instagram",
+      "theme": "no_google",
+      "post_copy": "97% of people Google a local business before calling.\n97%.\n\nYou're not on Google.\nDo the math.\n\nThat's not a marketing problem — that's a revenue leak the size of a fire hose.\n\nEvery single day someone in your city searches \"[your service] near me.\"\n\nYour competitor shows up. Gets clicked. Gets called.\nNot you. Them.\n\nThis happens because of ONE missing piece: a proper, indexed, mobile-ready website.\n\nNot a social page. A real website Google can read.\n\nI build them for $400. Done in 5–7 days. You own it forever. Zero monthly fees.\n\nI've helped local businesses go from invisible to page 1 in under 30 days.\n\nSame city. Same service. The only difference was the website.\n\nDM me GOOGLE — I'll run a free visibility check on your business and show you exactly how many leads you're losing monthly.\n\nStop donating customers to your competition.\n\n#LocalBusiness #WebDesign #GoogleSearch #LocalSEO #SmallBusinessOwner #WebsiteDesign #DigitalMarketing #BusinessGrowth #LocalMarketing #GoogleRanking #OnlineVisibility #SmallBusiness #BusinessOwner #WebDesigner #LocalBusinessOwner #MarketingStrategy #ContentMarketing #BusinessTips #LeadGeneration #GoogleMyBusiness",
+      "image_headline": "97% OF BUYERS START ON GOOGLE",
+      "image_subtext": "Not on Google = not in business. Fix it for $400.",
+      "image_visual_prompt": "Glowing neon number 97% rendered huge and dominant in the center of the frame, casting cold blue-white light down onto a dark small-town main street below — storefronts, sidewalk, people walking. The number dominates like a billboard made of pure light against a black sky. Cinematic sci-fi realism, dramatic atmospheric fog, high contrast dark mood.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "Instagram",
+      "theme": "no_google",
+      "post_copy": "This restaurant owner lost 3 customers last Friday.\nShe didn't know it until I showed her the data.\n\nPeople searched \"dinner near me\" in her neighborhood.\nHer competitor — 2 blocks away, half the portion sizes — showed up first.\n\nShe didn't.\n\nHer food is better. Her prices are lower. Her reviews are glowing.\n\nBut Google didn't know she existed.\n\nBecause her website was built in 2014, wasn't mobile-ready, and hadn't been indexed in months.\n\nThree leads Friday. Minimum 12 a week. That's $2,400+ in monthly revenue walking to the restaurant down the street.\n\nWe fixed it.\n\nNew website. $400. Done in 6 days. Mobile-optimized, Google-indexed, Business Profile linked.\n\nShe showed up on Google Maps within the week.\n\nOne website. One time. Hers forever.\n\nDM me AUDIT — I'll check your Google presence FREE and show you exactly what you're losing monthly. No pitch. Just data.\n\n#LocalBusiness #RestaurantMarketing #WebDesign #LocalSEO #SmallBusiness #BusinessOwner #GoogleSearch #WebsiteDesign #LocalMarketing #DigitalMarketing #SmallBusinessMarketing #GoogleRanking #BusinessGrowth #LocalBusinessOwner #OnlineMarketing #WebDesigner #GoogleMyBusiness #MarketingTips #LocalRestaurant #BusinessTips",
+      "image_headline": "SHE LOST $2,400/MONTH AND DIDN'T KNOW IT",
+      "image_subtext": "One $400 website. 6 days. Problem solved forever.",
+      "image_visual_prompt": "A female restaurant owner in her apron standing outside her restaurant at night, arms crossed, looking through the window at nearly empty tables. Through the window of a rival restaurant next door, warm light and packed tables are clearly visible. Her expression is troubled and reflective. Moody nighttime street scene, neon signs reflecting on wet pavement, dramatic contrast between empty and full dining rooms, cinematic street photography style.",
+      "cta_type": "audit"
+    },
+    {
+      "platform": "LinkedIn",
+      "theme": "no_google",
+      "post_copy": "The ROI math on a $400 website is almost embarrassing.\n\nLet me show you:\n\nThe average local service job is worth $300–$800.\n(Plumber visit. Landscaping job. Restaurant table. Tax prep appointment.)\n\nIf Google brings you just ONE new customer per month...\n\nMonth 1: +$300 revenue. Net after website: -$100\nMonth 2: +$300. Running net: +$200\nMonth 3: +$300. Running net: +$500\nMonth 12: Running net: +$3,200\n\nOne customer per month. Conservative estimate.\n\nMost businesses I've worked with see 3–8 new Google leads within their first 60 days.\n\nThe business owners who say \"I can't afford a website\" are making a $3,000+ annual decision to save $400.\n\nThat's not a budget constraint. That's a math problem.\n\nIf you're a local business owner not showing up on Google when customers search for your service — this is the most expensive invisible problem in your business.\n\nI build professional, Google-ready websites for $400. Done in 5–7 days. You own it outright. No monthly fees. Ever.\n\nDM me ROI and I'll run a free audit of your Google visibility and show you what it's costing you monthly.\n\n#LocalBusiness #WebDesign #ROI #SmallBusiness #BusinessGrowth #LocalSEO #DigitalMarketing #WebsiteDesign #Entrepreneurship #LocalMarketing",
+      "image_headline": "$400 WEBSITE. $3,200+ YEAR-ONE ROI.",
+      "image_subtext": "One Google lead per month. That's all it takes.",
+      "image_visual_prompt": "A clean minimalist desk scene: a simple hand-drawn ROI chart on white paper showing a line curving sharply upward after month 1, with dollar amounts annotated at each month. A $400 bill sits at the bottom left as the starting investment. The chart line reaches $3,200 by month 12. Dramatic overhead lighting, moody dark background, high contrast financial editorial photography.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "LinkedIn",
+      "theme": "no_google",
+      "post_copy": "I talked to 47 local business owners last month.\n\n41 of them weren't showing up on Google for their core service.\n\nNot because they had a bad business.\nNot because their work was poor quality.\nNot because of bad reviews.\n\nBecause they had no website — or one that Google couldn't read.\n\nHere's the pattern I kept running into:\n\n\"I have a Facebook page.\" (Facebook pages don't rank in Google search results.)\n\"I'm on Google Maps.\" (Works 10x better when linked to a real website.)\n\"Word of mouth works fine for me.\" (Word of mouth has a ceiling. Google searches don't.)\n\nThe businesses with a proper website — even a simple one — were collecting inbound leads while the others waited for the phone to ring.\n\nOne business owner went from zero Google presence to 4 inbound calls in 3 weeks. Single website. $400.\n\nThe technology isn't complicated. The barrier is usually just awareness.\n\nLocal business owners: when did you last Google your own service in your city?\n\nIf you didn't show up, I'd like to help.\n\nDM me — I'll run a free Google visibility check. No strings. Just data.\n\n#LocalBusiness #SmallBusiness #Entrepreneurship #WebDesign #DigitalMarketing #LocalSEO #BusinessGrowth #LocalMarketing #WebsiteDesign #BusinessOwner",
+      "image_headline": "41 OF 47 LOCAL BUSINESSES: INVISIBLE ON GOOGLE",
+      "image_subtext": "The fix: a proper website. $400. Done in 7 days.",
+      "image_visual_prompt": "A grid of 47 small storefront business icons arranged in neat rows on a dark background. 41 of them are greyed out with a faint red X, representing invisible businesses. Six icons glow bright green with a checkmark. The contrast between the glowing few and the darkened majority is stark and dramatic. Clean data visualization style, moody blue-black background, editorial infographic aesthetic.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "LinkedIn",
+      "theme": "no_google",
+      "post_copy": "Unpopular opinion for local businesses:\n\nYour social media following means almost nothing if you're not on Google.\n\nI know. Counterintuitive.\n\nBut here's the reality:\n\nWhen someone needs a plumber at 11pm, they don't scroll Instagram.\nWhen someone needs a restaurant for date night, they don't check your Facebook page.\nWhen someone needs a contractor for a renovation, they don't wait for a TikTok algorithm.\n\nThey open Google. They type \"[service] near me.\"\n\nRight now. High intent. Ready to buy.\n\nInstagram followers are vanity metrics for local businesses.\nGoogle search visibility is actual, measurable revenue.\n\nThe businesses dominating their local market aren't the ones with the biggest following. They're the ones who show up when someone types what they need.\n\nSocial media builds awareness.\nGoogle captures demand.\n\nBoth matter. But if I had to choose ONE for a local business that needs customers this month? Google. Every time.\n\nA $400 website optimized for local search will outperform 10,000 Instagram followers for most local service businesses. I've seen it happen.\n\nProve me wrong in the comments.\n\nAnd if you're a local business owner who wants to show up when customers search — DM me. Free audit. No pitch.\n\n#LocalBusiness #DigitalMarketing #WebDesign #LocalSEO #SmallBusiness #Entrepreneurship #SocialMedia #BusinessGrowth #MarketingStrategy #LocalMarketing",
+      "image_headline": "SOCIAL MEDIA WON'T SAVE YOUR LOCAL BUSINESS",
+      "image_subtext": "Google captures demand. Social builds awareness. Know the difference.",
+      "image_visual_prompt": "Social media app icons — Instagram, Facebook, TikTok — rendered as fragile glass bubbles floating upward and shattering against a solid glowing Google search bar that dominates the center of the frame like a steel beam. The social bubbles are small and translucent; the search bar is solid, glowing white, immovable. Dark dramatic background, deep blue-black tones, conceptual editorial illustration style.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "Twitter/X",
+      "theme": "no_google",
+      "post_copy": "97% of people Google a local business before calling.\n\nIf you're not on page 1, you don't exist.\n\nA $400 website fixes this in 7 days.\n\nDM me \"AUDIT\" for a free Google visibility check.",
+      "image_headline": "NO WEBSITE = NO GOOGLE = NO CUSTOMERS",
+      "image_subtext": "$400. 7 days. Fixed forever.",
+      "image_visual_prompt": "A stark dark background with a single illuminated Google search bar glowing white in the center of the frame. Below it, a long empty void where search results should appear — completely dark and hollow. The emptiness is dramatic and unsettling. Minimalist conceptual composition, extreme contrast, no people.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "Twitter/X",
+      "theme": "no_google",
+      "post_copy": "Your competitor has a $400 website.\n\nYou don't.\n\nThey show up on Google. You don't.\n\nThey get the call. You don't.\n\nOne decision separates you. DM me.",
+      "image_headline": "THEY SHOW UP ON GOOGLE. YOU DON'T.",
+      "image_subtext": "One website. One decision. $400.",
+      "image_visual_prompt": "Two identical storefronts side by side on a dark city street at night. The left storefront is dark, empty, no customers, dim and forgotten. The right storefront glows brightly with customers entering and a Google review badge in the window. Same street, same type of business, completely opposite outcomes. Cinematic wide shot, neon reflections on wet pavement.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "Twitter/X",
+      "theme": "no_google",
+      "post_copy": "Go Google \"[your service] + [your city]\" right now.\n\nDid you show up?\n\nIf not — customers ready to hire you just called your competitor instead.\n\n$400 website. 7 days. Done. DM me.",
+      "image_headline": "GOOGLE YOUR OWN BUSINESS. RIGHT NOW.",
+      "image_subtext": "If you're not there, someone else got that call.",
+      "image_visual_prompt": "Close-up of two hands holding a phone, thumbs hovering over a Google search bar mid-type. The screen glows brilliantly in a dark room. The query being typed ends with near me. Tension and urgency in the composition. High contrast, cinematic close-up, dark moody background.",
+      "cta_type": "dm"
+    },
+    {
+      "platform": "Facebook",
+      "theme": "no_google",
+      "post_copy": "I audited 47 local business websites last month.\n\nHere's what I found — and what it's costing them:\n\n31 of 47 weren't indexed on Google at all.\n28 had load times over 5 seconds on mobile (Google buries these).\n22 had no connection between their site and Google Business Profile.\n19 had phone numbers that weren't clickable on mobile.\n11 had no city or address mentioned anywhere on the site.\n\nEstimated monthly revenue lost based on Google search volume in each city:\n\n$1,200–$4,800 per business. Per month.\n\nThese aren't failing businesses. These are good businesses, with good reputations, that built everything except the one thing Google needs to send them customers.\n\nI don't say this to sell you something.\n\nI say it because I keep having the same conversation with business owners who've spent 10 years building something great — and lost thousands in leads to competitors who simply paid $400 for a real website.\n\nThe internet didn't change the rules. The rules were always: show up where your customers are looking.\n\nRight now, they're looking on Google.\n\nAre you there?\n\nDM me AUDIT — I'll check your Google visibility for free and send you the results within 24 hours. No pitch. Just data.\n\n#LocalBusiness #WebDesign #LocalSEO #SmallBusiness #GoogleSearch #BusinessGrowth #DigitalMarketing #WebsiteDesign #LocalMarketing #BusinessOwner",
+      "image_headline": "47 BUSINESSES AUDITED. 41 INVISIBLE ON GOOGLE.",
+      "image_subtext": "The fix costs $400. The problem costs thousands per month.",
+      "image_visual_prompt": "A lone consultant sitting at a cluttered desk late at night surrounded by printed audit reports and open laptops. On the main screen, a spreadsheet shows rows of business names with red and green status indicators — the vast majority red. Empty coffee cups and a single dim desk lamp create a gritty late-night atmosphere. Cinematic warm-to-dark lighting, realistic editorial photography style.",
+      "cta_type": "audit"
+    }
+  ],
+  "upcoming": [
+    {
+      "date": "2026-05-21",
+      "count": 4,
+      "today": true,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "LinkedIn": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-21",
+          "platform": "Facebook",
+          "theme": "diy_fail",
+          "content": "🚨 Attention contractor owners in the area:\n\nDIY websites are killing your credibility.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+        },
+        {
+          "date": "2026-05-21",
+          "platform": "Instagram",
+          "theme": "diy_fail",
+          "content": "DIY websites are killing your credibility 📱\n\nA site that looks amateur tells customers your work is amateur too.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+        },
+        {
+          "date": "2026-05-21",
+          "platform": "LinkedIn",
+          "theme": "diy_fail",
+          "content": "DIY websites are killing your credibility.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nA site that looks amateur tells customers your work is amateur too.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+        },
+        {
+          "date": "2026-05-21",
+          "platform": "Twitter/X",
+          "theme": "diy_fail",
+          "content": "No website in 2026 = you don't exist.\n\nDIY websites are killing your credibility.\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-22",
+          "platform": "Facebook",
+          "theme": "missed_revenue",
+          "content": "🚨 Attention auto shop owners in the area:\n\nHow much revenue are you leaving on the table every month?.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+        },
+        {
+          "date": "2026-05-22",
+          "platform": "Instagram",
+          "theme": "missed_revenue",
+          "content": "How much revenue are you leaving on the table every month? 📱\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+        },
+        {
+          "date": "2026-05-22",
+          "platform": "Twitter/X",
+          "theme": "missed_revenue",
+          "content": "How much revenue are you leaving on the table every month?.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-23",
+          "platform": "Facebook",
+          "theme": "competitor_wins",
+          "content": "🚨 Attention contractor owners in the area:\n\nYour competitor just got a new website. Their phone is ringing..\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nThe business with the best online presence wins — not the one with the best service.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+        },
+        {
+          "date": "2026-05-23",
+          "platform": "Instagram",
+          "theme": "competitor_wins",
+          "content": "The harsh truth about local business 👇\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nYour competitors are figuring this out. Are you?\n\n💻 Professional website: $400\n📱 Mobile-optimized: included\n🔍 Built for Google: included\n⏱️ Done in 5–7 days: yes\n\nDM me or drop a comment. Free mock-up for your business 👇\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+        },
+        {
+          "date": "2026-05-23",
+          "platform": "Twitter/X",
+          "theme": "competitor_wins",
+          "content": "No website in 2026 = you don't exist.\n\nYour competitor just got a new website. Their phone is ringing..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-24",
+          "platform": "Facebook",
+          "theme": "social_not_enough",
+          "content": "🚨 Attention salon owners in the area:\n\nInstagram and Facebook are NOT a website.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-24",
+          "platform": "Instagram",
+          "theme": "social_not_enough",
+          "content": "Instagram and Facebook are NOT a website 📱\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-24",
+          "platform": "Twitter/X",
+          "theme": "social_not_enough",
+          "content": "The #1 reason local businesses lose customers:\n\nInstagram and Facebook are NOT a website.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nWebsite → trust → call → customer.\n\nI build them. $400. 7 days. DM me.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "count": 4,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "LinkedIn": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-25",
+          "platform": "Facebook",
+          "theme": "first_impression",
+          "content": "Real talk for local business owners 👇\n\nYour website is your first impression. Make it count..\n\nI talked to a contractor last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+        },
+        {
+          "date": "2026-05-25",
+          "platform": "Instagram",
+          "theme": "first_impression",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+        },
+        {
+          "date": "2026-05-25",
+          "platform": "LinkedIn",
+          "theme": "first_impression",
+          "content": "Your website is your first impression. Make it count..\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+        },
+        {
+          "date": "2026-05-25",
+          "platform": "Twitter/X",
+          "theme": "first_impression",
+          "content": "Your website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "count": 4,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "LinkedIn": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-26",
+          "platform": "Facebook",
+          "theme": "no_website",
+          "content": "🚨 Attention restaurant owners in the area:\n\nNo website = invisible business.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-26",
+          "platform": "Instagram",
+          "theme": "no_website",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nNo website = invisible business.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-26",
+          "platform": "LinkedIn",
+          "theme": "no_website",
+          "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nNo website = invisible business.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+        },
+        {
+          "date": "2026-05-26",
+          "platform": "Twitter/X",
+          "theme": "no_website",
+          "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nNo website = invisible business.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-27",
+          "platform": "Facebook",
+          "theme": "outdated_site",
+          "content": "I'm going to save you from a mistake I see every week 👇\n\nThat website from 2012 is costing you customers.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-27",
+          "platform": "Instagram",
+          "theme": "outdated_site",
+          "content": "That website from 2012 is costing you customers 📱\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-27",
+          "platform": "Twitter/X",
+          "theme": "outdated_site",
+          "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nThat website from 2012 is costing you customers.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "count": 4,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "LinkedIn": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-28",
+          "platform": "Facebook",
+          "theme": "mobile_broken",
+          "content": "I'm going to save you from a mistake I see every week 👇\n\n60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+        },
+        {
+          "date": "2026-05-28",
+          "platform": "Instagram",
+          "theme": "mobile_broken",
+          "content": "60% of customers search on their phone 📱\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+        },
+        {
+          "date": "2026-05-28",
+          "platform": "LinkedIn",
+          "theme": "mobile_broken",
+          "content": "60% of customers search on their phone.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+        },
+        {
+          "date": "2026-05-28",
+          "platform": "Twitter/X",
+          "theme": "mobile_broken",
+          "content": "60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-29",
+          "platform": "Facebook",
+          "theme": "no_google",
+          "content": "I'm going to save you from a mistake I see every week 👇\n\nYour competitors are showing up on Google. You're not..\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+        },
+        {
+          "date": "2026-05-29",
+          "platform": "Instagram",
+          "theme": "no_google",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour competitors are showing up on Google. You're not..\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+        },
+        {
+          "date": "2026-05-29",
+          "platform": "Twitter/X",
+          "theme": "no_google",
+          "content": "No website in 2026 = you don't exist.\n\nYour competitors are showing up on Google. You're not..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-30",
+          "platform": "Facebook",
+          "theme": "no_trust",
+          "content": "I'm going to save you from a mistake I see every week 👇\n\nNo website = no trust. No trust = no sale..\n\nBefore anyone calls you, they Google you. What do they find?\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-30",
+          "platform": "Instagram",
+          "theme": "no_trust",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nNo website = no trust. No trust = no sale..\n\nBefore anyone calls you, they Google you. What do they find?\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-05-30",
+          "platform": "Twitter/X",
+          "theme": "no_trust",
+          "content": "No website in 2026 = you don't exist.\n\nNo website = no trust. No trust = no sale..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-05-31",
+          "platform": "Facebook",
+          "theme": "diy_fail",
+          "content": "🚨 Attention landscaping owners in the area:\n\nDIY websites are killing your credibility.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+        },
+        {
+          "date": "2026-05-31",
+          "platform": "Instagram",
+          "theme": "diy_fail",
+          "content": "DIY websites are killing your credibility 📱\n\nA site that looks amateur tells customers your work is amateur too.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+        },
+        {
+          "date": "2026-05-31",
+          "platform": "Twitter/X",
+          "theme": "diy_fail",
+          "content": "DIY websites are killing your credibility.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "count": 4,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "LinkedIn": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-06-01",
+          "platform": "Facebook",
+          "theme": "missed_revenue",
+          "content": "Real talk for local business owners 👇\n\nHow much revenue are you leaving on the table every month?.\n\nI talked to a salon owner last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+        },
+        {
+          "date": "2026-06-01",
+          "platform": "Instagram",
+          "theme": "missed_revenue",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nHow much revenue are you leaving on the table every month?.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+        },
+        {
+          "date": "2026-06-01",
+          "platform": "LinkedIn",
+          "theme": "missed_revenue",
+          "content": "How much revenue are you leaving on the table every month?.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+        },
+        {
+          "date": "2026-06-01",
+          "platform": "Twitter/X",
+          "theme": "missed_revenue",
+          "content": "No website in 2026 = you don't exist.\n\nHow much revenue are you leaving on the table every month?.\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "count": 4,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "LinkedIn": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-06-02",
+          "platform": "Facebook",
+          "theme": "competitor_wins",
+          "content": "Real talk for local business owners 👇\n\nYour competitor just got a new website. Their phone is ringing..\n\nI talked to a party rental company last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nThe business with the best online presence wins — not the one with the best service.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+        },
+        {
+          "date": "2026-06-02",
+          "platform": "Instagram",
+          "theme": "competitor_wins",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+        },
+        {
+          "date": "2026-06-02",
+          "platform": "LinkedIn",
+          "theme": "competitor_wins",
+          "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+        },
+        {
+          "date": "2026-06-02",
+          "platform": "Twitter/X",
+          "theme": "competitor_wins",
+          "content": "No website in 2026 = you don't exist.\n\nYour competitor just got a new website. Their phone is ringing..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "count": 3,
+      "today": false,
+      "by_platform": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Twitter/X": 1
+      },
+      "posts": [
+        {
+          "date": "2026-06-03",
+          "platform": "Facebook",
+          "theme": "social_not_enough",
+          "content": "I'm going to save you from a mistake I see every week 👇\n\nInstagram and Facebook are NOT a website.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-06-03",
+          "platform": "Instagram",
+          "theme": "social_not_enough",
+          "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nInstagram and Facebook are NOT a website.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "",
+          "image_url": ""
+        },
+        {
+          "date": "2026-06-03",
+          "platform": "Twitter/X",
+          "theme": "social_not_enough",
+          "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nInstagram and Facebook are NOT a website.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+          "status": "pending",
+          "posted_at": "",
+          "notes": "",
+          "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
+          "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+        }
+      ]
+    }
+  ],
+  "recent_posted": [],
+  "queue": [
+    {
+      "date": "2026-05-06",
+      "platform": "Facebook",
+      "theme": "no_website",
+      "content": "🚨 Attention landscaping owners in the area:\n\nNo website = invisible business.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-06",
+      "platform": "Instagram",
+      "theme": "no_website",
+      "content": "No website = invisible business 📱\n\nCustomers Google you, find nothing, and go to your competitor.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-06",
+      "platform": "Twitter/X",
+      "theme": "no_website",
+      "content": "The #1 reason local businesses lose customers:\n\nNo website = invisible business.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nWebsite → trust → call → customer.\n\nI build them. $400. 7 days. DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+    },
+    {
+      "date": "2026-05-07",
+      "platform": "Facebook",
+      "theme": "outdated_site",
+      "content": "🚨 Attention salon owners in the area:\n\nThat website from 2012 is costing you customers.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-07",
+      "platform": "Instagram",
+      "theme": "outdated_site",
+      "content": "That website from 2012 is costing you customers 📱\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-07",
+      "platform": "LinkedIn",
+      "theme": "outdated_site",
+      "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nThat website from 2012 is costing you customers.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+    },
+    {
+      "date": "2026-05-07",
+      "platform": "Twitter/X",
+      "theme": "outdated_site",
+      "content": "That website from 2012 is costing you customers.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+    },
+    {
+      "date": "2026-05-08",
+      "platform": "Facebook",
+      "theme": "mobile_broken",
+      "content": "Real talk for local business owners 👇\n\n60% of customers search on their phone.\n\nI talked to a party rental company last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+    },
+    {
+      "date": "2026-05-08",
+      "platform": "Instagram",
+      "theme": "mobile_broken",
+      "content": "60% of customers search on their phone 📱\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+    },
+    {
+      "date": "2026-05-08",
+      "platform": "Twitter/X",
+      "theme": "mobile_broken",
+      "content": "60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+    },
+    {
+      "date": "2026-05-09",
+      "platform": "Facebook",
+      "theme": "no_google",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nYour competitors are showing up on Google. You're not..\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+    },
+    {
+      "date": "2026-05-09",
+      "platform": "Instagram",
+      "theme": "no_google",
+      "content": "Your competitors are showing up on Google. You're not. 📱\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+    },
+    {
+      "date": "2026-05-09",
+      "platform": "Twitter/X",
+      "theme": "no_google",
+      "content": "No website in 2026 = you don't exist.\n\nYour competitors are showing up on Google. You're not..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+    },
+    {
+      "date": "2026-05-10",
+      "platform": "Facebook",
+      "theme": "no_trust",
+      "content": "Real talk for local business owners 👇\n\nNo website = no trust. No trust = no sale..\n\nI talked to a restaurant owner last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nBefore anyone calls you, they Google you. What do they find?\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-10",
+      "platform": "Instagram",
+      "theme": "no_trust",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nNo website = no trust. No trust = no sale..\n\nBefore anyone calls you, they Google you. What do they find?\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-10",
+      "platform": "Twitter/X",
+      "theme": "no_trust",
+      "content": "No website in 2026 = you don't exist.\n\nNo website = no trust. No trust = no sale..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+    },
+    {
+      "date": "2026-05-11",
+      "platform": "Facebook",
+      "theme": "diy_fail",
+      "content": "Real talk for local business owners 👇\n\nDIY websites are killing your credibility.\n\nI talked to a party rental company last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nA site that looks amateur tells customers your work is amateur too.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-11",
+      "platform": "Instagram",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility 📱\n\nA site that looks amateur tells customers your work is amateur too.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-11",
+      "platform": "LinkedIn",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nA site that looks amateur tells customers your work is amateur too.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    },
+    {
+      "date": "2026-05-11",
+      "platform": "Twitter/X",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    },
+    {
+      "date": "2026-05-12",
+      "platform": "Facebook",
+      "theme": "missed_revenue",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nHow much revenue are you leaving on the table every month?.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+    },
+    {
+      "date": "2026-05-12",
+      "platform": "Instagram",
+      "theme": "missed_revenue",
+      "content": "How much revenue are you leaving on the table every month? 📱\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+    },
+    {
+      "date": "2026-05-12",
+      "platform": "LinkedIn",
+      "theme": "missed_revenue",
+      "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nHow much revenue are you leaving on the table every month?.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+    },
+    {
+      "date": "2026-05-12",
+      "platform": "Twitter/X",
+      "theme": "missed_revenue",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nHow much revenue are you leaving on the table every month?.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+    },
+    {
+      "date": "2026-05-13",
+      "platform": "Facebook",
+      "theme": "competitor_wins",
+      "content": "Real talk for local business owners 👇\n\nYour competitor just got a new website. Their phone is ringing..\n\nI talked to a restaurant owner last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nThe business with the best online presence wins — not the one with the best service.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+    },
+    {
+      "date": "2026-05-13",
+      "platform": "Instagram",
+      "theme": "competitor_wins",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+    },
+    {
+      "date": "2026-05-13",
+      "platform": "Twitter/X",
+      "theme": "competitor_wins",
+      "content": "No website in 2026 = you don't exist.\n\nYour competitor just got a new website. Their phone is ringing..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+    },
+    {
+      "date": "2026-05-14",
+      "platform": "Facebook",
+      "theme": "social_not_enough",
+      "content": "🚨 Attention restaurant owners in the area:\n\nInstagram and Facebook are NOT a website.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-14",
+      "platform": "Instagram",
+      "theme": "social_not_enough",
+      "content": "Instagram and Facebook are NOT a website 📱\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-14",
+      "platform": "LinkedIn",
+      "theme": "social_not_enough",
+      "content": "Instagram and Facebook are NOT a website.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+    },
+    {
+      "date": "2026-05-14",
+      "platform": "Twitter/X",
+      "theme": "social_not_enough",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nInstagram and Facebook are NOT a website.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+    },
+    {
+      "date": "2026-05-15",
+      "platform": "Facebook",
+      "theme": "first_impression",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+    },
+    {
+      "date": "2026-05-15",
+      "platform": "Instagram",
+      "theme": "first_impression",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+    },
+    {
+      "date": "2026-05-15",
+      "platform": "Twitter/X",
+      "theme": "first_impression",
+      "content": "The #1 reason local businesses lose customers:\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nWebsite → trust → call → customer.\n\nI build them. $400. 7 days. DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+    },
+    {
+      "date": "2026-05-16",
+      "platform": "Facebook",
+      "theme": "no_website",
+      "content": "🚨 Attention auto shop owners in the area:\n\nNo website = invisible business.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-16",
+      "platform": "Instagram",
+      "theme": "no_website",
+      "content": "The harsh truth about local business 👇\n\nNo website = invisible business.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nYour competitors are figuring this out. Are you?\n\n💻 Professional website: $400\n📱 Mobile-optimized: included\n🔍 Built for Google: included\n⏱️ Done in 5–7 days: yes\n\nDM me or drop a comment. Free mock-up for your business 👇\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-16",
+      "platform": "Twitter/X",
+      "theme": "no_website",
+      "content": "No website in 2026 = you don't exist.\n\nNo website = invisible business.\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+    },
+    {
+      "date": "2026-05-17",
+      "platform": "Facebook",
+      "theme": "outdated_site",
+      "content": "Real talk for local business owners 👇\n\nThat website from 2012 is costing you customers.\n\nI talked to a salon owner last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-17",
+      "platform": "Instagram",
+      "theme": "outdated_site",
+      "content": "The harsh truth about local business 👇\n\nThat website from 2012 is costing you customers.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nYour competitors are figuring this out. Are you?\n\n💻 Professional website: $400\n📱 Mobile-optimized: included\n🔍 Built for Google: included\n⏱️ Done in 5–7 days: yes\n\nDM me or drop a comment. Free mock-up for your business 👇\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-17",
+      "platform": "Twitter/X",
+      "theme": "outdated_site",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nThat website from 2012 is costing you customers.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+    },
+    {
+      "date": "2026-05-18",
+      "platform": "Facebook",
+      "theme": "mobile_broken",
+      "content": "Real talk for local business owners 👇\n\n60% of customers search on their phone.\n\nI talked to a party rental company last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+    },
+    {
+      "date": "2026-05-18",
+      "platform": "Instagram",
+      "theme": "mobile_broken",
+      "content": "60% of customers search on their phone 📱\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+    },
+    {
+      "date": "2026-05-18",
+      "platform": "LinkedIn",
+      "theme": "mobile_broken",
+      "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\n60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+    },
+    {
+      "date": "2026-05-18",
+      "platform": "Twitter/X",
+      "theme": "mobile_broken",
+      "content": "The #1 reason local businesses lose customers:\n\n60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nWebsite → trust → call → customer.\n\nI build them. $400. 7 days. DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+    },
+    {
+      "date": "2026-05-19",
+      "platform": "Facebook",
+      "theme": "no_google",
+      "content": "🚨 Attention restaurant owners in the area:\n\nYour competitors are showing up on Google. You're not..\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+    },
+    {
+      "date": "2026-05-19",
+      "platform": "Instagram",
+      "theme": "no_google",
+      "content": "The harsh truth about local business 👇\n\nYour competitors are showing up on Google. You're not..\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nYour competitors are figuring this out. Are you?\n\n💻 Professional website: $400\n📱 Mobile-optimized: included\n🔍 Built for Google: included\n⏱️ Done in 5–7 days: yes\n\nDM me or drop a comment. Free mock-up for your business 👇\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+    },
+    {
+      "date": "2026-05-19",
+      "platform": "LinkedIn",
+      "theme": "no_google",
+      "content": "Your competitors are showing up on Google. You're not..\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+    },
+    {
+      "date": "2026-05-19",
+      "platform": "Twitter/X",
+      "theme": "no_google",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nYour competitors are showing up on Google. You're not..\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+    },
+    {
+      "date": "2026-05-20",
+      "platform": "Facebook",
+      "theme": "no_trust",
+      "content": "🚨 Attention landscaping owners in the area:\n\nNo website = no trust. No trust = no sale..\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nBefore anyone calls you, they Google you. What do they find?\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-20",
+      "platform": "Instagram",
+      "theme": "no_trust",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nNo website = no trust. No trust = no sale..\n\nBefore anyone calls you, they Google you. What do they find?\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-20",
+      "platform": "Twitter/X",
+      "theme": "no_trust",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nNo website = no trust. No trust = no sale..\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "Facebook",
+      "theme": "diy_fail",
+      "content": "🚨 Attention contractor owners in the area:\n\nDIY websites are killing your credibility.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "Instagram",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility 📱\n\nA site that looks amateur tells customers your work is amateur too.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "LinkedIn",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nA site that looks amateur tells customers your work is amateur too.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    },
+    {
+      "date": "2026-05-21",
+      "platform": "Twitter/X",
+      "theme": "diy_fail",
+      "content": "No website in 2026 = you don't exist.\n\nDIY websites are killing your credibility.\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    },
+    {
+      "date": "2026-05-22",
+      "platform": "Facebook",
+      "theme": "missed_revenue",
+      "content": "🚨 Attention auto shop owners in the area:\n\nHow much revenue are you leaving on the table every month?.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+    },
+    {
+      "date": "2026-05-22",
+      "platform": "Instagram",
+      "theme": "missed_revenue",
+      "content": "How much revenue are you leaving on the table every month? 📱\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+    },
+    {
+      "date": "2026-05-22",
+      "platform": "Twitter/X",
+      "theme": "missed_revenue",
+      "content": "How much revenue are you leaving on the table every month?.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+    },
+    {
+      "date": "2026-05-23",
+      "platform": "Facebook",
+      "theme": "competitor_wins",
+      "content": "🚨 Attention contractor owners in the area:\n\nYour competitor just got a new website. Their phone is ringing..\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nThe business with the best online presence wins — not the one with the best service.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+    },
+    {
+      "date": "2026-05-23",
+      "platform": "Instagram",
+      "theme": "competitor_wins",
+      "content": "The harsh truth about local business 👇\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nYour competitors are figuring this out. Are you?\n\n💻 Professional website: $400\n📱 Mobile-optimized: included\n🔍 Built for Google: included\n⏱️ Done in 5–7 days: yes\n\nDM me or drop a comment. Free mock-up for your business 👇\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+    },
+    {
+      "date": "2026-05-23",
+      "platform": "Twitter/X",
+      "theme": "competitor_wins",
+      "content": "No website in 2026 = you don't exist.\n\nYour competitor just got a new website. Their phone is ringing..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+    },
+    {
+      "date": "2026-05-24",
+      "platform": "Facebook",
+      "theme": "social_not_enough",
+      "content": "🚨 Attention salon owners in the area:\n\nInstagram and Facebook are NOT a website.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-24",
+      "platform": "Instagram",
+      "theme": "social_not_enough",
+      "content": "Instagram and Facebook are NOT a website 📱\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-24",
+      "platform": "Twitter/X",
+      "theme": "social_not_enough",
+      "content": "The #1 reason local businesses lose customers:\n\nInstagram and Facebook are NOT a website.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nWebsite → trust → call → customer.\n\nI build them. $400. 7 days. DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+    },
+    {
+      "date": "2026-05-25",
+      "platform": "Facebook",
+      "theme": "first_impression",
+      "content": "Real talk for local business owners 👇\n\nYour website is your first impression. Make it count..\n\nI talked to a contractor last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+    },
+    {
+      "date": "2026-05-25",
+      "platform": "Instagram",
+      "theme": "first_impression",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+    },
+    {
+      "date": "2026-05-25",
+      "platform": "LinkedIn",
+      "theme": "first_impression",
+      "content": "Your website is your first impression. Make it count..\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+    },
+    {
+      "date": "2026-05-25",
+      "platform": "Twitter/X",
+      "theme": "first_impression",
+      "content": "Your website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+    },
+    {
+      "date": "2026-05-26",
+      "platform": "Facebook",
+      "theme": "no_website",
+      "content": "🚨 Attention restaurant owners in the area:\n\nNo website = invisible business.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-26",
+      "platform": "Instagram",
+      "theme": "no_website",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nNo website = invisible business.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-26",
+      "platform": "LinkedIn",
+      "theme": "no_website",
+      "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nNo website = invisible business.\n\nCustomers Google you, find nothing, and go to your competitor.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+    },
+    {
+      "date": "2026-05-26",
+      "platform": "Twitter/X",
+      "theme": "no_website",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nNo website = invisible business.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+    },
+    {
+      "date": "2026-05-27",
+      "platform": "Facebook",
+      "theme": "outdated_site",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nThat website from 2012 is costing you customers.\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-27",
+      "platform": "Instagram",
+      "theme": "outdated_site",
+      "content": "That website from 2012 is costing you customers 📱\n\nAn outdated site signals you're out of business. People leave in 3 seconds.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-27",
+      "platform": "Twitter/X",
+      "theme": "outdated_site",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nThat website from 2012 is costing you customers.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+    },
+    {
+      "date": "2026-05-28",
+      "platform": "Facebook",
+      "theme": "mobile_broken",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\n60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+    },
+    {
+      "date": "2026-05-28",
+      "platform": "Instagram",
+      "theme": "mobile_broken",
+      "content": "60% of customers search on their phone 📱\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+    },
+    {
+      "date": "2026-05-28",
+      "platform": "LinkedIn",
+      "theme": "mobile_broken",
+      "content": "60% of customers search on their phone.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+    },
+    {
+      "date": "2026-05-28",
+      "platform": "Twitter/X",
+      "theme": "mobile_broken",
+      "content": "60% of customers search on their phone.\n\nIf your site doesn't work on mobile, you're losing more than half your leads.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+    },
+    {
+      "date": "2026-05-29",
+      "platform": "Facebook",
+      "theme": "no_google",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nYour competitors are showing up on Google. You're not..\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+    },
+    {
+      "date": "2026-05-29",
+      "platform": "Instagram",
+      "theme": "no_google",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour competitors are showing up on Google. You're not..\n\nLocal SEO is the difference between a full schedule and an empty one.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+    },
+    {
+      "date": "2026-05-29",
+      "platform": "Twitter/X",
+      "theme": "no_google",
+      "content": "No website in 2026 = you don't exist.\n\nYour competitors are showing up on Google. You're not..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+    },
+    {
+      "date": "2026-05-30",
+      "platform": "Facebook",
+      "theme": "no_trust",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nNo website = no trust. No trust = no sale..\n\nBefore anyone calls you, they Google you. What do they find?\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-30",
+      "platform": "Instagram",
+      "theme": "no_trust",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nNo website = no trust. No trust = no sale..\n\nBefore anyone calls you, they Google you. What do they find?\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-05-30",
+      "platform": "Twitter/X",
+      "theme": "no_trust",
+      "content": "No website in 2026 = you don't exist.\n\nNo website = no trust. No trust = no sale..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+    },
+    {
+      "date": "2026-05-31",
+      "platform": "Facebook",
+      "theme": "diy_fail",
+      "content": "🚨 Attention landscaping owners in the area:\n\nDIY websites are killing your credibility.\n\nHere's the truth most people won't tell you:\n\nWhen someone needs your service, the first thing they do is Google it. If you don't show up — or if your site looks sketchy — they call the next business on the list.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $400. Done in 5–7 days. You keep full ownership.\n\nDrop a 🙋 below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-31",
+      "platform": "Instagram",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility 📱\n\nA site that looks amateur tells customers your work is amateur too.\n\nIf you own a local business and you don't have a professional website — or yours hasn't been updated since Obama was president — this is your sign.\n\nI build clean, mobile-first websites for local businesses. $400. Done in a week.\n\nDM me \"WEBSITE\" for a free audit 👇\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+    },
+    {
+      "date": "2026-05-31",
+      "platform": "Twitter/X",
+      "theme": "diy_fail",
+      "content": "DIY websites are killing your credibility.\n\nA site that looks amateur tells customers your work is amateur too.\n\nI build websites for local businesses starting at $400. Done in a week.\n\nDM me if you want a free audit.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+    },
+    {
+      "date": "2026-06-01",
+      "platform": "Facebook",
+      "theme": "missed_revenue",
+      "content": "Real talk for local business owners 👇\n\nHow much revenue are you leaving on the table every month?.\n\nI talked to a salon owner last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+    },
+    {
+      "date": "2026-06-01",
+      "platform": "Instagram",
+      "theme": "missed_revenue",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nHow much revenue are you leaving on the table every month?.\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+    },
+    {
+      "date": "2026-06-01",
+      "platform": "LinkedIn",
+      "theme": "missed_revenue",
+      "content": "How much revenue are you leaving on the table every month?.\n\nI've audited dozens of local business websites over the past year. Here's what I keep seeing:\n\n→ No mobile optimization (60%+ of searches happen on phones)\n→ No Google Business Profile\n→ Contact forms that don't work\n→ Sites that haven't been updated in years\n\nLocal businesses without a professional site lose 3–5 customers a week. That's real money.\n\nThe fix isn't complicated. A clean, fast, mobile-first website built for local search can change the entire trajectory of a small business.\n\nI work with restaurants, contractors, salons, party rental companies, and other local businesses. Starting at $400 with a 5–7 day turnaround.\n\nIf you know a business owner who could use a website refresh — or if that's you — feel free to connect or DM me.\n\n#WebDesign #LocalBusiness #SmallBusiness #DigitalMarketing #LocalSEO",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+    },
+    {
+      "date": "2026-06-01",
+      "platform": "Twitter/X",
+      "theme": "missed_revenue",
+      "content": "No website in 2026 = you don't exist.\n\nHow much revenue are you leaving on the table every month?.\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+    },
+    {
+      "date": "2026-06-02",
+      "platform": "Facebook",
+      "theme": "competitor_wins",
+      "content": "Real talk for local business owners 👇\n\nYour competitor just got a new website. Their phone is ringing..\n\nI talked to a party rental company last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nThe business with the best online presence wins — not the one with the best service.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+    },
+    {
+      "date": "2026-06-02",
+      "platform": "Instagram",
+      "theme": "competitor_wins",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+    },
+    {
+      "date": "2026-06-02",
+      "platform": "LinkedIn",
+      "theme": "competitor_wins",
+      "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nYour competitor just got a new website. Their phone is ringing..\n\nThe business with the best online presence wins — not the one with the best service.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+    },
+    {
+      "date": "2026-06-02",
+      "platform": "Twitter/X",
+      "theme": "competitor_wins",
+      "content": "No website in 2026 = you don't exist.\n\nYour competitor just got a new website. Their phone is ringing..\n\nI work with local businesses — restaurants, salons, contractors, party rentals.\n\nFast. Clean. Affordable. Starting at $400.\n\nDrop a reply or DM 👇",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+    },
+    {
+      "date": "2026-06-03",
+      "platform": "Facebook",
+      "theme": "social_not_enough",
+      "content": "I'm going to save you from a mistake I see every week 👇\n\nInstagram and Facebook are NOT a website.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nHere's what a $400 website gets you:\n✅ Mobile-friendly design\n✅ Shows up on Google\n✅ Looks professional on day one\n✅ Builds trust before anyone calls you\n✅ You own it forever\n\nNo monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-06-03",
+      "platform": "Instagram",
+      "theme": "social_not_enough",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nInstagram and Facebook are NOT a website.\n\nSocial platforms can ban you overnight. Your website is the only thing you own.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "",
+      "image_url": ""
+    },
+    {
+      "date": "2026-06-03",
+      "platform": "Twitter/X",
+      "theme": "social_not_enough",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nInstagram and Facebook are NOT a website.\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "Facebook",
+      "theme": "first_impression",
+      "content": "Real talk for local business owners 👇\n\nYour website is your first impression. Make it count..\n\nI talked to a party rental company last week who said \"I get most of my business from word of mouth — I don't need a website.\"\n\nThree months later, their competitor launched a clean site and started showing up on Google Maps.\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nWord of mouth has a ceiling. A website works 24/7 — even when you're closed.\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "Instagram",
+      "theme": "first_impression",
+      "content": "Swipe this ➡️ before your next customer goes to your competitor\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nOne new customer from your site = you've already made your money back.\n\nBuilt for local businesses. Starting at $400.\n\nLink in bio — or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "LinkedIn",
+      "theme": "first_impression",
+      "content": "A local business owner told me last month: \"I don't need a website. My customers find me through referrals.\"\n\nSix weeks later, they reached out asking for help.\n\nTheir main competitor had just launched a professional site and started ranking on Google Maps. New customers were going there first — before asking for referrals.\n\nYour website is your first impression. Make it count..\n\nYou have 3 seconds to win a customer online. A bad site loses them forever.\n\nReferrals are great. But a website runs 24/7. It handles your credibility, trust, and lead capture even when you're sleeping.\n\nI build professional websites for local businesses starting at $400.\n\nIf you're a business owner or know one who needs this — DM me. Happy to do a free audit.\n\n#WebDesign #SmallBusiness #DigitalMarketing #LocalBusiness #Entrepreneurship",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "Twitter/X",
+      "theme": "first_impression",
+      "content": "Local business owners: your competitor just got a new website.\n\nTheir phone is ringing.\n\nYour website is your first impression. Make it count..\n\nA professional site pays for itself with one new customer.\n\nStarting at $400 → DM me.",
+      "status": "pending",
+      "posted_at": "",
+      "notes": "",
+      "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+    }
+  ]
+}
