@@ -975,7 +975,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -1030,7 +1030,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -1102,7 +1102,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -1157,7 +1157,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -1241,7 +1241,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -1296,7 +1296,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -1368,7 +1368,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b1b2d"
@@ -1423,7 +1423,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b1b2d"
@@ -1495,7 +1495,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d2d1b"
@@ -1555,7 +1555,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d2d1b"
@@ -1627,7 +1627,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b2d"
@@ -1682,7 +1682,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b2d"
@@ -1766,7 +1766,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d2d"
@@ -1821,7 +1821,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d2d"
@@ -1905,7 +1905,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -1965,7 +1965,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -2037,7 +2037,7 @@
         "bpm": 120
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -2092,7 +2092,7 @@
         "bpm": 120
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -2176,7 +2176,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -2236,7 +2236,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -2308,7 +2308,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -2368,7 +2368,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -2440,7 +2440,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -2500,7 +2500,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -2572,7 +2572,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -2627,7 +2627,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -2711,7 +2711,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b1b2d"
@@ -2771,7 +2771,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b1b2d"
@@ -2855,7 +2855,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d2d1b"
@@ -2915,7 +2915,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d2d1b"
@@ -2987,7 +2987,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b2d"
@@ -3042,7 +3042,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b2d"
@@ -3126,7 +3126,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d2d"
@@ -3181,7 +3181,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d2d"
@@ -3253,7 +3253,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -3313,7 +3313,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -3385,7 +3385,7 @@
         "bpm": 120
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -3440,7 +3440,7 @@
         "bpm": 120
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -3512,7 +3512,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -3572,7 +3572,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -3656,7 +3656,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -3716,7 +3716,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -3800,7 +3800,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -3855,7 +3855,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -3927,7 +3927,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -3982,7 +3982,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -4066,7 +4066,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b1b2d"
@@ -4126,7 +4126,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b1b2d"
@@ -4198,7 +4198,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d2d1b"
@@ -4258,7 +4258,7 @@
         "bpm": 95
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d2d1b"
@@ -4330,7 +4330,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b2d"
@@ -4385,7 +4385,7 @@
         "bpm": 140
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b2d"
@@ -4457,7 +4457,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d2d"
@@ -4517,7 +4517,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d2d"
@@ -4601,7 +4601,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -4661,7 +4661,7 @@
         "bpm": 100
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#2d1b1b"
@@ -4745,7 +4745,7 @@
         "bpm": 120
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -4805,7 +4805,7 @@
         "bpm": 120
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1a1a2e"
@@ -4877,7 +4877,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
@@ -4937,7 +4937,7 @@
         "bpm": 110
       },
       "transition": "slide-left",
-      "aspect_ratio": "9:16",
+      "aspect_ratio": "1:1",
       "bg_colors": [
         "#0a0a0a",
         "#1b2d1b"
