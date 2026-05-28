@@ -7,7 +7,9 @@
     "pending": 103,
     "skipped": 0,
     "today_count": 4,
-    "images_generated": 18
+    "images_generated": 18,
+    "reel_posts": 60,
+    "static_posts": 43
   },
   "platform_colors": {
     "Facebook": "#1877F2",
@@ -929,7 +931,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention landscaping owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = invisible business.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Customers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention landscaping owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-06",
@@ -940,7 +991,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "No website = invisible business \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Customers Google you, find nothing, and go to your competitor.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "No website = invisible business \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-06",
@@ -951,7 +1046,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png",
+      "format": "static"
     },
     {
       "date": "2026-05-07",
@@ -962,7 +1058,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention salon owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "That website from 2012 is costing you customers.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "An outdated site signals you're out of business. People leave in 3 seconds.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention salon owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-07",
@@ -973,7 +1118,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "That website from 2012 is costing you customers \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "An outdated site signals you're out of business. People leave in 3 seconds.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "That website from 2012 is costing you customers \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-07",
@@ -984,7 +1173,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png",
+      "format": "static"
     },
     {
       "date": "2026-05-07",
@@ -995,7 +1185,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png",
+      "format": "static"
     },
     {
       "date": "2026-05-08",
@@ -1006,7 +1197,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "60% of customers search on their phone.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a party rental company last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If your site doesn't work on mobile, you're losing more than half your leads.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-08",
@@ -1017,7 +1257,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "60% of customers search on their phone \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "If your site doesn't work on mobile, you're losing more than half your leads.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "60% of customers search on their phone \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-08",
@@ -1028,7 +1312,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png",
+      "format": "static"
     },
     {
       "date": "2026-05-09",
@@ -1039,7 +1324,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitors are showing up on Google. You're not..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local SEO is the difference between a full schedule and an empty one.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b1b2d"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-09",
@@ -1050,7 +1384,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Your competitors are showing up on Google. You're not. \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Local SEO is the difference between a full schedule and an empty one.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b1b2d"
+      ],
+      "reel_caption": "Your competitors are showing up on Google. You're not. \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-09",
@@ -1061,7 +1439,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png",
+      "format": "static"
     },
     {
       "date": "2026-05-10",
@@ -1072,7 +1451,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = no trust. No trust = no sale..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a restaurant owner last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Before anyone calls you, they Google you. What do they find?\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d2d1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-10",
@@ -1083,7 +1511,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = no trust. No trust = no sale..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Before anyone calls you, they Google you. What do they find?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d2d1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-10",
@@ -1094,7 +1571,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png",
+      "format": "static"
     },
     {
       "date": "2026-05-11",
@@ -1105,7 +1583,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "DIY websites are killing your credibility.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a party rental company last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "A site that looks amateur tells customers your work is amateur too.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b2d"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-11",
@@ -1116,7 +1643,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "DIY websites are killing your credibility \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "A site that looks amateur tells customers your work is amateur too.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b2d"
+      ],
+      "reel_caption": "DIY websites are killing your credibility \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-11",
@@ -1127,7 +1698,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png",
+      "format": "static"
     },
     {
       "date": "2026-05-11",
@@ -1138,7 +1710,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png",
+      "format": "static"
     },
     {
       "date": "2026-05-12",
@@ -1149,7 +1722,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "How much revenue are you leaving on the table every month?.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local businesses without a professional site lose 3\u20135 customers a week. That's real money.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d2d"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-12",
@@ -1160,7 +1782,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "How much revenue are you leaving on the table every month? \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Local businesses without a professional site lose 3\u20135 customers a week. That's real money.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d2d"
+      ],
+      "reel_caption": "How much revenue are you leaving on the table every month? \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-12",
@@ -1171,7 +1837,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png",
+      "format": "static"
     },
     {
       "date": "2026-05-12",
@@ -1182,7 +1849,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png",
+      "format": "static"
     },
     {
       "date": "2026-05-13",
@@ -1193,7 +1861,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitor just got a new website. Their phone is ringing..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a restaurant owner last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "The business with the best online presence wins \u2014 not the one with the best service.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-13",
@@ -1204,7 +1921,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitor just got a new website. Their phone is ringing..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "The business with the best online presence wins \u2014 not the one with the best service.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-13",
@@ -1215,7 +1981,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png",
+      "format": "static"
     },
     {
       "date": "2026-05-14",
@@ -1226,7 +1993,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention restaurant owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Instagram and Facebook are NOT a website.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Social platforms can ban you overnight. Your website is the only thing you own.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "upbeat-corporate",
+        "name": "Upbeat Corporate",
+        "mood": "confident",
+        "bpm": 120
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention restaurant owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-14",
@@ -1237,7 +2053,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Instagram and Facebook are NOT a website \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Social platforms can ban you overnight. Your website is the only thing you own.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "upbeat-corporate",
+        "name": "Upbeat Corporate",
+        "mood": "confident",
+        "bpm": 120
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "Instagram and Facebook are NOT a website \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-14",
@@ -1248,7 +2108,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png",
+      "format": "static"
     },
     {
       "date": "2026-05-14",
@@ -1259,7 +2120,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png",
+      "format": "static"
     },
     {
       "date": "2026-05-15",
@@ -1270,7 +2132,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your website is your first impression. Make it count..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "You have 3 seconds to win a customer online. A bad site loses them forever.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-15",
@@ -1281,7 +2192,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your website is your first impression. Make it count..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "You have 3 seconds to win a customer online. A bad site loses them forever.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-15",
@@ -1292,7 +2252,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png",
+      "format": "static"
     },
     {
       "date": "2026-05-16",
@@ -1303,7 +2264,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention auto shop owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = invisible business.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Customers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention auto shop owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-16",
@@ -1314,7 +2324,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "The harsh truth about local business \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = invisible business.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Customers Google you, find nothing, and go to your competitor.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Your competitors are figuring this out. Are you?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "\ud83d\udcbb Professional website: $600\n\ud83d\udcf1 Mobile-optimized: included\n\ud83d\udd0d Built for Google: included\n\u23f1\ufe0f Done in 5\u20137 days: yes",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me or drop a comment. Free mock-up for your business \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "The harsh truth about local business \ud83d\udc47\n\nDM me or drop a comment. Free mock-up for your business \ud83d\udc47\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips"
     },
     {
       "date": "2026-05-16",
@@ -1325,7 +2384,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png",
+      "format": "static"
     },
     {
       "date": "2026-05-17",
@@ -1336,7 +2396,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "That website from 2012 is costing you customers.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a salon owner last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "An outdated site signals you're out of business. People leave in 3 seconds.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-17",
@@ -1347,7 +2456,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "The harsh truth about local business \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "That website from 2012 is costing you customers.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "An outdated site signals you're out of business. People leave in 3 seconds.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Your competitors are figuring this out. Are you?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "\ud83d\udcbb Professional website: $600\n\ud83d\udcf1 Mobile-optimized: included\n\ud83d\udd0d Built for Google: included\n\u23f1\ufe0f Done in 5\u20137 days: yes",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me or drop a comment. Free mock-up for your business \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "The harsh truth about local business \ud83d\udc47\n\nDM me or drop a comment. Free mock-up for your business \ud83d\udc47\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips"
     },
     {
       "date": "2026-05-17",
@@ -1358,7 +2516,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png",
+      "format": "static"
     },
     {
       "date": "2026-05-18",
@@ -1369,7 +2528,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "60% of customers search on their phone.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a party rental company last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If your site doesn't work on mobile, you're losing more than half your leads.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-18",
@@ -1380,7 +2588,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "60% of customers search on their phone \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "If your site doesn't work on mobile, you're losing more than half your leads.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "60% of customers search on their phone \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-18",
@@ -1391,7 +2643,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png",
+      "format": "static"
     },
     {
       "date": "2026-05-18",
@@ -1402,7 +2655,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png",
+      "format": "static"
     },
     {
       "date": "2026-05-19",
@@ -1413,7 +2667,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention restaurant owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitors are showing up on Google. You're not..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local SEO is the difference between a full schedule and an empty one.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b1b2d"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention restaurant owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-19",
@@ -1424,7 +2727,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "The harsh truth about local business \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitors are showing up on Google. You're not..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local SEO is the difference between a full schedule and an empty one.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Your competitors are figuring this out. Are you?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "\ud83d\udcbb Professional website: $600\n\ud83d\udcf1 Mobile-optimized: included\n\ud83d\udd0d Built for Google: included\n\u23f1\ufe0f Done in 5\u20137 days: yes",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me or drop a comment. Free mock-up for your business \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b1b2d"
+      ],
+      "reel_caption": "The harsh truth about local business \ud83d\udc47\n\nDM me or drop a comment. Free mock-up for your business \ud83d\udc47\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips"
     },
     {
       "date": "2026-05-19",
@@ -1435,7 +2787,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png",
+      "format": "static"
     },
     {
       "date": "2026-05-19",
@@ -1446,7 +2799,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png",
+      "format": "static"
     },
     {
       "date": "2026-05-20",
@@ -1457,7 +2811,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention landscaping owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = no trust. No trust = no sale..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Before anyone calls you, they Google you. What do they find?\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d2d1b"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention landscaping owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-20",
@@ -1468,7 +2871,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = no trust. No trust = no sale..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Before anyone calls you, they Google you. What do they find?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d2d1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-20",
@@ -1479,7 +2931,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png",
+      "format": "static"
     },
     {
       "date": "2026-05-21",
@@ -1490,7 +2943,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention contractor owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "DIY websites are killing your credibility.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "A site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b2d"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention contractor owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-21",
@@ -1501,7 +3003,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "DIY websites are killing your credibility \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "A site that looks amateur tells customers your work is amateur too.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b2d"
+      ],
+      "reel_caption": "DIY websites are killing your credibility \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-21",
@@ -1512,7 +3058,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png",
+      "format": "static"
     },
     {
       "date": "2026-05-21",
@@ -1523,7 +3070,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png",
+      "format": "static"
     },
     {
       "date": "2026-05-22",
@@ -1534,7 +3082,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention auto shop owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "How much revenue are you leaving on the table every month?.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local businesses without a professional site lose 3\u20135 customers a week. That's real money.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d2d"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention auto shop owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-22",
@@ -1545,7 +3142,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "How much revenue are you leaving on the table every month? \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Local businesses without a professional site lose 3\u20135 customers a week. That's real money.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d2d"
+      ],
+      "reel_caption": "How much revenue are you leaving on the table every month? \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-22",
@@ -1556,7 +3197,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png",
+      "format": "static"
     },
     {
       "date": "2026-05-23",
@@ -1567,7 +3209,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention contractor owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitor just got a new website. Their phone is ringing..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "The business with the best online presence wins \u2014 not the one with the best service.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention contractor owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-23",
@@ -1578,7 +3269,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "The harsh truth about local business \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitor just got a new website. Their phone is ringing..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "The business with the best online presence wins \u2014 not the one with the best service.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Your competitors are figuring this out. Are you?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "\ud83d\udcbb Professional website: $600\n\ud83d\udcf1 Mobile-optimized: included\n\ud83d\udd0d Built for Google: included\n\u23f1\ufe0f Done in 5\u20137 days: yes",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me or drop a comment. Free mock-up for your business \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "The harsh truth about local business \ud83d\udc47\n\nDM me or drop a comment. Free mock-up for your business \ud83d\udc47\n\n.\n.\n.\n#LocalBusiness #WebsiteDesign #SmallBusiness #DigitalMarketing #LocalSEO #WebDesigner #BusinessOwner #GetMoreCustomers #MarketingTips"
     },
     {
       "date": "2026-05-23",
@@ -1589,7 +3329,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png",
+      "format": "static"
     },
     {
       "date": "2026-05-24",
@@ -1600,7 +3341,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention salon owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Instagram and Facebook are NOT a website.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Social platforms can ban you overnight. Your website is the only thing you own.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "upbeat-corporate",
+        "name": "Upbeat Corporate",
+        "mood": "confident",
+        "bpm": 120
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention salon owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-24",
@@ -1611,7 +3401,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Instagram and Facebook are NOT a website \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Social platforms can ban you overnight. Your website is the only thing you own.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "upbeat-corporate",
+        "name": "Upbeat Corporate",
+        "mood": "confident",
+        "bpm": 120
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "Instagram and Facebook are NOT a website \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-24",
@@ -1622,7 +3456,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png",
+      "format": "static"
     },
     {
       "date": "2026-05-25",
@@ -1633,7 +3468,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your website is your first impression. Make it count..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a contractor last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "You have 3 seconds to win a customer online. A bad site loses them forever.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-05-25",
@@ -1644,7 +3528,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your website is your first impression. Make it count..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "You have 3 seconds to win a customer online. A bad site loses them forever.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-25",
@@ -1655,7 +3588,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png",
+      "format": "static"
     },
     {
       "date": "2026-05-25",
@@ -1666,7 +3600,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png",
+      "format": "static"
     },
     {
       "date": "2026-05-26",
@@ -1677,7 +3612,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention restaurant owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = invisible business.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Customers Google you, find nothing, and go to your competitor.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention restaurant owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-26",
@@ -1688,7 +3672,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = invisible business.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Customers Google you, find nothing, and go to your competitor.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-26",
@@ -1699,7 +3732,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png",
+      "format": "static"
     },
     {
       "date": "2026-05-26",
@@ -1710,7 +3744,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_website_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225344_24f9d5de-2c6a-4a68-a1a5-27d5683fcc6f.png",
+      "format": "static"
     },
     {
       "date": "2026-05-27",
@@ -1721,7 +3756,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "That website from 2012 is costing you customers.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "An outdated site signals you're out of business. People leave in 3 seconds.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-27",
@@ -1732,7 +3816,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "That website from 2012 is costing you customers \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "An outdated site signals you're out of business. People leave in 3 seconds.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "That website from 2012 is costing you customers \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-27",
@@ -1743,7 +3871,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/outdated_site_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225544_662b73fe-3ef3-4ff2-b2df-8d3e54f68693.png",
+      "format": "static"
     },
     {
       "date": "2026-05-28",
@@ -1754,7 +3883,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "60% of customers search on their phone.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If your site doesn't work on mobile, you're losing more than half your leads.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-28",
@@ -1765,7 +3943,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231309_3f46b2d3-e694-425d-90e0-0879653c5c8d.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "60% of customers search on their phone \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "If your site doesn't work on mobile, you're losing more than half your leads.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "60% of customers search on their phone \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-28",
@@ -1776,7 +3998,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png",
+      "format": "static"
     },
     {
       "date": "2026-05-28",
@@ -1787,7 +4010,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/mobile_broken_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224721_03490eae-6ca8-4aaf-8a9e-7badcc4f9538.png",
+      "format": "static"
     },
     {
       "date": "2026-05-29",
@@ -1798,7 +4022,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitors are showing up on Google. You're not..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local SEO is the difference between a full schedule and an empty one.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b1b2d"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-29",
@@ -1809,7 +4082,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231643_5218ae29-c98f-4c61-b720-e50338bac438.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitors are showing up on Google. You're not..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local SEO is the difference between a full schedule and an empty one.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b1b2d"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-29",
@@ -1820,7 +4142,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_google_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224928_8f928f13-fd5d-47fe-96f2-a918bed75400.png",
+      "format": "static"
     },
     {
       "date": "2026-05-30",
@@ -1831,7 +4154,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = no trust. No trust = no sale..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Before anyone calls you, they Google you. What do they find?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d2d1b"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-05-30",
@@ -1842,7 +4214,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "No website = no trust. No trust = no sale..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Before anyone calls you, they Google you. What do they find?",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "dark-cinematic",
+        "name": "Dark Cinematic",
+        "mood": "urgent",
+        "bpm": 95
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d2d1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-05-30",
@@ -1853,7 +4274,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/no_trust_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225140_6635e578-a78a-41b4-bd13-dc366c2b54ff.png",
+      "format": "static"
     },
     {
       "date": "2026-05-31",
@@ -1864,7 +4286,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "\ud83d\udea8 Attention landscaping owners in the area:",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "DIY websites are killing your credibility.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's the truth most people won't tell you:",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "When someone needs your service, the first thing they do is Google it. If you don't show up \u2014 or if your site looks sketchy \u2014 they call the next business on the list.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "A site that looks amateur tells customers your work is amateur too.\n\nI build professional websites for local businesses starting at $600. Done in 5\u20137 days. You keep full ownership.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Drop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b2d"
+      ],
+      "reel_caption": "\ud83d\udea8 Attention landscaping owners in the area:\n\nDrop a \ud83d\ude4b below or DM me if you want a free audit of your current online presence.\n\n#LocalBusiness #WebDesign #SmallBusiness #GetMoreCustomers"
     },
     {
       "date": "2026-05-31",
@@ -1875,7 +4346,51 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230334_e0c2b05c-3bca-47a2-bbea-284b719b2eeb.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "DIY websites are killing your credibility \ud83d\udcf1",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "A site that looks amateur tells customers your work is amateur too.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "If you own a local business and you don't have a professional website \u2014 or yours hasn't been updated since Obama was president \u2014 this is your sign.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I build clean, mobile-first websites for local businesses. $600. Done in a week.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "DM me \"WEBSITE\" for a free audit \ud83d\udc47",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 5,
+      "slide_duration": 3,
+      "total_duration": 15,
+      "music": {
+        "track_id": "trending-trap",
+        "name": "Trending Trap",
+        "mood": "bold",
+        "bpm": 140
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b2d"
+      ],
+      "reel_caption": "DIY websites are killing your credibility \ud83d\udcf1\n\nDM me \"WEBSITE\" for a free audit \ud83d\udc47\n\n.\n.\n.\n#WebDesign #LocalBusiness #SmallBusinessOwner #DigitalMarketing #GetMoreClients #WebDesigner #LocalSEO #BusinessWebsite #SmallBiz #EntrepreneurLife"
     },
     {
       "date": "2026-05-31",
@@ -1886,7 +4401,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/diy_fail_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224109_3185c0ac-f599-4e11-a82e-f2afcda04c53.png",
+      "format": "static"
     },
     {
       "date": "2026-06-01",
@@ -1897,7 +4413,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "How much revenue are you leaving on the table every month?.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a salon owner last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local businesses without a professional site lose 3\u20135 customers a week. That's real money.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d2d"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-06-01",
@@ -1908,7 +4473,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_231010_4a2086e8-ca54-4d8d-b0f6-c02d39bf03d8.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "How much revenue are you leaving on the table every month?.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Local businesses without a professional site lose 3\u20135 customers a week. That's real money.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d2d"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-06-01",
@@ -1919,7 +4533,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png",
+      "format": "static"
     },
     {
       "date": "2026-06-01",
@@ -1930,7 +4545,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/missed_revenue_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224527_e0068059-09db-4977-857f-7f0b6bcae00d.png",
+      "format": "static"
     },
     {
       "date": "2026-06-02",
@@ -1941,7 +4557,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitor just got a new website. Their phone is ringing..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a party rental company last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "The business with the best online presence wins \u2014 not the one with the best service.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-06-02",
@@ -1952,7 +4617,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230006_ccb01c75-d297-439c-9182-432f29eb2851.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your competitor just got a new website. Their phone is ringing..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "The business with the best online presence wins \u2014 not the one with the best service.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "epic-buildup",
+        "name": "Epic Buildup",
+        "mood": "dramatic",
+        "bpm": 100
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#2d1b1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-06-02",
@@ -1963,7 +4677,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png",
+      "format": "static"
     },
     {
       "date": "2026-06-02",
@@ -1974,7 +4689,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/competitor_wins_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_223855_308973fb-d4b7-4f00-9a7d-e6f3c8312147.png",
+      "format": "static"
     },
     {
       "date": "2026-06-03",
@@ -1985,7 +4701,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "I'm going to save you from a mistake I see every week \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Instagram and Facebook are NOT a website.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Social platforms can ban you overnight. Your website is the only thing you own.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Here's what a $600 website gets you:\n\u2705 Mobile-friendly design\n\u2705 Shows up on Google\n\u2705 Looks professional on day one\n\u2705 Builds trust before anyone calls you\n\u2705 You own it forever",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "No monthly fees. No subscriptions. One-time investment that pays for itself with one new customer.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Comment \"WEBSITE\" and I'll send you a free example from your industry.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "upbeat-corporate",
+        "name": "Upbeat Corporate",
+        "mood": "confident",
+        "bpm": 120
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "I'm going to save you from a mistake I see every week \ud83d\udc47\n\nComment \"WEBSITE\" and I'll send you a free example from your industry.\n\n#LocalBusiness #WebsiteDesign #SmallBusinessOwner #GetMoreClients"
     },
     {
       "date": "2026-06-03",
@@ -1996,7 +4761,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "",
-      "image_url": ""
+      "image_url": "",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Instagram and Facebook are NOT a website.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Social platforms can ban you overnight. Your website is the only thing you own.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "upbeat-corporate",
+        "name": "Upbeat Corporate",
+        "mood": "confident",
+        "bpm": 120
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1a1a2e"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-06-03",
@@ -2007,7 +4821,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/social_not_enough_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_225801_507b3e70-64c4-4971-99a2-60067f79f801.png",
+      "format": "static"
     },
     {
       "date": "2026-06-04",
@@ -2018,7 +4833,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Real talk for local business owners \ud83d\udc47",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your website is your first impression. Make it count..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "I talked to a party rental company last week who said \"I get most of my business from word of mouth \u2014 I don't need a website.\"",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Three months later, their competitor launched a clean site and started showing up on Google Maps.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "You have 3 seconds to win a customer online. A bad site loses them forever.\n\nWord of mouth has a ceiling. A website works 24/7 \u2014 even when you're closed.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "If you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Real talk for local business owners \ud83d\udc47\n\nIf you want to see what a new site could look like for your business, message me. Free mock-up, no pressure.\n\n#WebDesign #LocalBusiness #DigitalMarketing #SmallBiz"
     },
     {
       "date": "2026-06-04",
@@ -2029,7 +4893,56 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_1x1.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_230656_03e2aabf-0a1e-4298-a476-60619b5a451e.png",
+      "format": "reel",
+      "slides": [
+        {
+          "type": "hook",
+          "text": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor",
+          "style": "large-bold"
+        },
+        {
+          "type": "pain",
+          "text": "Your website is your first impression. Make it count..",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "You have 3 seconds to win a customer online. A bad site loses them forever.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "One new customer from your site = you've already made your money back.",
+          "style": "medium"
+        },
+        {
+          "type": "proof",
+          "text": "Built for local businesses. Starting at $600.",
+          "style": "medium"
+        },
+        {
+          "type": "cta",
+          "text": "Link in bio \u2014 or DM me to get started today.",
+          "style": "large-bold"
+        }
+      ],
+      "slide_count": 6,
+      "slide_duration": 3,
+      "total_duration": 18,
+      "music": {
+        "track_id": "motivational-drive",
+        "name": "Motivational Drive",
+        "mood": "inspiring",
+        "bpm": 110
+      },
+      "transition": "slide-left",
+      "aspect_ratio": "9:16",
+      "bg_colors": [
+        "#0a0a0a",
+        "#1b2d1b"
+      ],
+      "reel_caption": "Swipe this \u27a1\ufe0f before your next customer goes to your competitor\n\nLink in bio \u2014 or DM me to get started today.\n\n.\n.\n.\n#WebDesign #SmallBusiness #LocalBusinessOwner #DigitalMarketing #WebDesigner #SEO #BusinessWebsite #GetMoreLeads #LocalBusiness #Marketing"
     },
     {
       "date": "2026-06-04",
@@ -2040,7 +4953,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png",
+      "format": "static"
     },
     {
       "date": "2026-06-04",
@@ -2051,7 +4965,8 @@
       "posted_at": "",
       "notes": "",
       "image_path": "/Users/jessyt_sw/web-design-clients/social-automation/output/images/first_impression_16x9.jpg",
-      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png"
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38DvIrVBfKAlbHvCuX7mdJZHgNn/hf_20260511_224319_9ef7b1bc-39bf-4cff-87b6-79ca2fbaab5b.png",
+      "format": "static"
     }
   ]
 }

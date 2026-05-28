@@ -3,618 +3,493 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kalnyes Growth — Social Hub</title>
+<title>KG — Automation Dashboard</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%236B9E7A'/><text x='16' y='22' text-anchor='middle' font-family='Georgia,serif' font-weight='700' font-size='16' fill='white'>KG</text></svg>">
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
 <style>
 :root {
-  --bg:       oklch(9% 0.008 155);
-  --surface:  oklch(13% 0.008 155);
-  --surface2: oklch(16% 0.008 155);
-  --border:   rgba(255,255,255,0.07);
-  --accent:   oklch(62% 0.09 155);
-  --accent-d: oklch(62% 0.09 155 / 0.14);
-  --accent-g: oklch(62% 0.09 155 / 0.3);
-  --text:     oklch(96% 0.006 155);
-  --muted:    oklch(60% 0.006 155);
-  --ease:     cubic-bezier(0.16,1,0.3,1);
-  --r:        14px;
-  --fb: #1877F2; --ig: #E1306C; --li: #0A66C2; --x: #9ca3af; --sh: #34A853;
+  --bg:      oklch(9% 0.008 155);
+  --s1:      oklch(13% 0.008 155);
+  --s2:      oklch(16% 0.008 155);
+  --s3:      oklch(19% 0.008 155);
+  --bdr:     rgba(255,255,255,0.07);
+  --acc:     oklch(62% 0.09 155);
+  --acc-d:   oklch(62% 0.09 155 / 0.14);
+  --acc-g:   oklch(62% 0.09 155 / 0.3);
+  --text:    oklch(96% 0.006 155);
+  --muted:   oklch(58% 0.006 155);
+  --ease:    cubic-bezier(0.16,1,0.3,1);
+  --r:       14px;
+  --fb:      #1877F2;
+  --ig:      #E1306C;
+  --li:      #0A66C2;
+  --tw:      #e7e9ea;
+  --ok:      oklch(62% 0.14 155);
+  --warn:    oklch(72% 0.16 85);
+  --reel:    oklch(65% 0.16 320);
 }
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{font-family:system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;font-size:14px;line-height:1.5}
-body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellipse 70% 50% at 15% 5%,oklch(62% 0.09 155 / 0.06) 0%,transparent 60%);pointer-events:none;z-index:0}
+*,*::before,*::after { box-sizing:border-box; margin:0; padding:0 }
+html { scroll-behavior:smooth; overflow-x:hidden }
+body {
+  font-family: system-ui,-apple-system,sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+body::before {
+  content:'';
+  position:fixed; inset:0;
+  background:
+    radial-gradient(ellipse 60% 40% at 10% 0%, oklch(62% 0.09 155 / 0.07) 0%, transparent 55%),
+    radial-gradient(ellipse 40% 30% at 90% 100%, oklch(60% 0.12 280 / 0.04) 0%, transparent 50%);
+  pointer-events:none; z-index:0;
+}
 
-/* layout */
-.wrap{position:relative;z-index:1;max-width:1280px;margin:0 auto;padding:28px 20px 80px}
+.wrap { position:relative; z-index:1; max-width:1200px; margin:0 auto; padding:28px 20px 80px }
 
-/* header */
-.hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:32px;flex-wrap:wrap;gap:12px}
-.logo{display:flex;align-items:center;gap:12px}
-.logo-mark{width:40px;height:40px;background:var(--accent);border-radius:10px;display:flex;align-items:center;justify-content:center;font-family:Georgia,serif;font-weight:700;font-size:18px;box-shadow:0 0 18px var(--accent-g);flex-shrink:0}
-.logo h1{font-family:Georgia,serif;font-size:1.1rem;font-weight:700}
-.logo p{font-size:.72rem;color:var(--muted)}
-.hdr-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.refresh-btn{background:var(--surface);border:1px solid var(--border);border-radius:8px;color:var(--muted);padding:6px 14px;font-size:.74rem;cursor:pointer;transition:.2s}
-.refresh-btn:hover{border-color:var(--accent);color:var(--accent)}
-.gen-time{font-size:.72rem;color:var(--muted)}
+/* ── HEADER ── */
+.hdr { display:flex; align-items:center; justify-content:space-between; margin-bottom:28px; flex-wrap:wrap; gap:12px }
+.logo { display:flex; align-items:center; gap:12px }
+.logo-mark {
+  width:42px; height:42px;
+  background: linear-gradient(135deg, var(--acc) 0%, oklch(52% 0.1 155) 100%);
+  border-radius:11px;
+  display:flex; align-items:center; justify-content:center;
+  font-family:Georgia,serif; font-weight:700; font-size:18px;
+  box-shadow: 0 0 22px var(--acc-g);
+  flex-shrink:0;
+}
+.logo-text h1 { font-family:Georgia,serif; font-size:1.05rem; font-weight:700 }
+.logo-text p  { font-size:.7rem; color:var(--muted) }
+.hdr-right { display:flex; align-items:center; gap:10px }
+.hdr-clock { font-size:.72rem; color:var(--muted); background:var(--s1); border:1px solid var(--bdr); border-radius:8px; padding:6px 14px }
 
-/* quick links */
-.quick-links{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:28px}
-.ql{display:flex;align-items:center;gap:6px;padding:6px 14px;border-radius:50px;border:1px solid var(--border);background:var(--surface);color:var(--text);text-decoration:none;font-size:.76rem;font-weight:500;transition:.2s var(--ease)}
-.ql:hover{transform:translateY(-2px);border-color:rgba(255,255,255,.16)}
-.ql-dot{width:8px;height:8px;border-radius:50%;background:var(--dot-color)}
+/* ── SECTION LABEL ── */
+.sl { font-size:.65rem; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--acc); margin-bottom:12px }
 
-/* stats */
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:28px}
-.stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:16px 14px;display:flex;flex-direction:column;gap:4px}
-.stat-n{font-family:Georgia,serif;font-size:1.7rem;font-weight:700;color:var(--accent);line-height:1}
-.stat-l{font-size:.68rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
-.stat.highlight{border-color:var(--accent-d)}
+/* ── STATS BAR ── */
+.stats-bar { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:10px; margin-bottom:28px }
+.stat-card {
+  background:var(--s1); border:1px solid var(--bdr); border-radius:var(--r);
+  padding:16px; text-align:center;
+}
+.stat-num { font-size:1.6rem; font-weight:800; line-height:1 }
+.stat-label { font-size:.68rem; color:var(--muted); margin-top:4px; font-weight:600; text-transform:uppercase; letter-spacing:.05em }
 
-/* tabs */
-.tabs{display:flex;gap:4px;border-bottom:1px solid var(--border);margin-bottom:24px;overflow-x:auto}
-.tab{padding:8px 18px;font-size:.78rem;font-weight:500;color:var(--muted);cursor:pointer;border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap;transition:.18s}
-.tab.active,.tab:hover{color:var(--text)}
-.tab.active{border-bottom-color:var(--accent);color:var(--accent)}
-.pane{display:none}
-.pane.active{display:block}
+/* ── PLATFORM CARDS ── */
+.platforms-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(190px,1fr)); gap:10px; margin-bottom:28px }
+.platform-card {
+  background:var(--s1); border:1px solid var(--bdr); border-radius:var(--r);
+  padding:18px 16px; display:flex; flex-direction:column; gap:6px;
+  text-decoration:none; color:var(--text); cursor:pointer;
+  transition:.22s var(--ease); position:relative; overflow:hidden;
+}
+.platform-card::before {
+  content:''; position:absolute; inset:0;
+  background:linear-gradient(135deg, var(--p-color, #888) 0%, transparent 60%);
+  opacity:0.06; transition:.2s;
+}
+.platform-card:hover { transform:translateY(-3px); border-color:rgba(255,255,255,.16) }
+.platform-card:hover::before { opacity:0.12 }
+.p-icon {
+  width:36px; height:36px; border-radius:9px;
+  background:var(--p-color, #888);
+  display:flex; align-items:center; justify-content:center;
+  margin-bottom:4px;
+}
+.p-icon svg { width:18px; height:18px; fill:#fff }
+.p-name  { font-size:.85rem; font-weight:700 }
+.p-handle { font-size:.69rem; color:var(--muted) }
+.p-stat { font-size:.69rem; color:var(--muted); display:flex; gap:8px }
+.p-action {
+  display:flex; align-items:center; gap:4px;
+  font-size:.69rem; color:var(--acc); margin-top:auto; padding-top:8px;
+  font-weight:600;
+}
+.p-action::after { content:'→' }
 
-/* section label */
-.sl{font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:12px}
+/* ── QUEUE SECTION ── */
+.queue-controls { display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap }
+.q-filter {
+  padding:6px 14px; border-radius:50px; border:1px solid var(--bdr);
+  background:var(--s1); color:var(--muted); font-size:.72rem; font-weight:600;
+  cursor:pointer; transition:.18s var(--ease);
+}
+.q-filter:hover, .q-filter.active { background:var(--acc-d); color:var(--acc); border-color:var(--acc) }
 
-/* today's posts */
-.posts-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
-.post-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);overflow:hidden;transition:.22s var(--ease)}
-.post-card:hover{border-color:rgba(255,255,255,.14);transform:translateY(-2px)}
-.pc-head{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid var(--border)}
-.pc-badge{font-size:.67rem;font-weight:700;padding:3px 9px;border-radius:50px;color:#fff;letter-spacing:.04em}
-.pc-theme{font-size:.72rem;color:var(--muted);background:var(--surface2);border-radius:50px;padding:2px 9px}
-.pc-status{margin-left:auto;font-size:.67rem;font-weight:600;padding:3px 9px;border-radius:50px}
-.status-pending{background:oklch(65% 0.12 85 / 0.16);color:oklch(80% 0.12 85)}
-.status-posted{background:var(--accent-d);color:var(--accent)}
-.status-skip{background:oklch(40% 0.01 155 / 0.3);color:var(--muted)}
-.pc-body{padding:12px 14px}
-.pc-copy{font-size:.78rem;color:var(--muted);line-height:1.55;white-space:pre-wrap;max-height:90px;overflow:hidden;transition:max-height .4s var(--ease)}
-.pc-copy.expanded{max-height:600px}
-.pc-image{width:100%;aspect-ratio:1;object-fit:cover;display:block;border-radius:6px;margin-bottom:10px}
-.pc-image.wide{aspect-ratio:16/9}
-.pc-actions{display:flex;gap:6px;padding:10px 14px;border-top:1px solid var(--border)}
-.pc-btn{flex:1;padding:6px;font-size:.72rem;font-weight:600;border-radius:7px;border:1px solid var(--border);background:none;color:var(--muted);cursor:pointer;transition:.18s;text-align:center}
-.pc-btn:hover{background:var(--surface2);color:var(--text)}
-.pc-btn.copy-btn:hover{border-color:var(--accent);color:var(--accent)}
-.pc-btn.copied{border-color:var(--accent);color:var(--accent);background:var(--accent-d)}
+.queue-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:14px; margin-bottom:28px }
 
-/* filter bar */
-.filter-bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;align-items:center}
-.filter-btn{padding:5px 14px;border-radius:50px;font-size:.74rem;font-weight:500;border:1px solid var(--border);background:var(--surface);color:var(--muted);cursor:pointer;transition:.18s}
-.filter-btn.active,.filter-btn:hover{border-color:var(--accent);color:var(--accent);background:var(--accent-d)}
-.search-input{flex:1;min-width:180px;max-width:280px;padding:6px 12px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:.78rem;outline:none;transition:.18s}
-.search-input:focus{border-color:var(--accent)}
-.search-input::placeholder{color:var(--muted)}
+/* ── POST CARD ── */
+.post-card {
+  background:var(--s1); border:1px solid var(--bdr); border-radius:var(--r);
+  overflow:hidden; transition:.22s var(--ease);
+}
+.post-card:hover { border-color:rgba(255,255,255,.14); transform:translateY(-2px) }
+.post-head {
+  padding:12px 14px; display:flex; align-items:center; justify-content:space-between;
+  border-bottom:1px solid var(--bdr); gap:8px;
+}
+.post-platform { display:flex; align-items:center; gap:8px }
+.post-platform-dot { width:8px; height:8px; border-radius:50% }
+.post-platform-name { font-size:.76rem; font-weight:600 }
+.post-badges { display:flex; gap:5px; flex-wrap:wrap }
+.badge {
+  font-size:.6rem; font-weight:700; padding:2px 8px; border-radius:50px;
+  letter-spacing:.03em; text-transform:uppercase;
+}
+.badge-reel { background:oklch(65% 0.16 320 / 0.18); color:oklch(75% 0.16 320) }
+.badge-static { background:rgba(255,255,255,.06); color:var(--muted) }
+.badge-theme { background:var(--acc-d); color:var(--acc) }
+.badge-pending { background:oklch(72% 0.16 85 / 0.15); color:oklch(78% 0.16 85) }
+.badge-posted { background:oklch(62% 0.14 155 / 0.18); color:oklch(72% 0.14 155) }
 
-/* queue table */
-.queue-wrap{overflow-x:auto;border-radius:var(--r);border:1px solid var(--border)}
-table{width:100%;border-collapse:collapse;font-size:.76rem}
-thead th{background:var(--surface2);padding:10px 12px;text-align:left;font-weight:600;color:var(--muted);font-size:.68rem;text-transform:uppercase;letter-spacing:.06em;white-space:nowrap;border-bottom:1px solid var(--border)}
-tbody tr{border-bottom:1px solid var(--border);transition:.15s}
-tbody tr:last-child{border-bottom:none}
-tbody tr:hover{background:var(--surface2)}
-tbody td{padding:9px 12px;vertical-align:middle}
-.td-copy{max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--muted)}
-.td-date{white-space:nowrap;color:var(--muted);font-size:.72rem}
-.td-past{opacity:.5}
-.expand-row{display:none;background:oklch(11% 0.007 155)}
-.expand-row td{padding:12px 14px}
-.expand-copy{font-size:.76rem;white-space:pre-wrap;line-height:1.55;color:var(--text)}
+/* ── REEL PREVIEW ── */
+.reel-preview {
+  background:var(--s2); padding:14px; display:flex; gap:10px; overflow-x:auto;
+  scrollbar-width:thin; scrollbar-color: var(--s3) transparent;
+}
+.reel-slide {
+  flex-shrink:0; width:120px; min-height:200px;
+  border-radius:10px; padding:12px 10px;
+  display:flex; flex-direction:column; justify-content:center;
+  position:relative; overflow:hidden;
+  border:1px solid rgba(255,255,255,.08);
+}
+.reel-slide::before {
+  content:''; position:absolute; inset:0; border-radius:10px;
+  background: linear-gradient(180deg, var(--slide-c1, #0a0a0a) 0%, var(--slide-c2, #1a1a2e) 100%);
+  z-index:0;
+}
+.slide-num {
+  position:absolute; top:6px; left:8px; font-size:.55rem; font-weight:700;
+  color:rgba(255,255,255,.35); z-index:1;
+}
+.slide-type {
+  position:absolute; top:6px; right:8px; font-size:.5rem; font-weight:700;
+  padding:1px 5px; border-radius:3px; z-index:1; text-transform:uppercase;
+  letter-spacing:.05em;
+}
+.slide-type.hook { background:rgba(255,80,80,.3); color:#ff8888 }
+.slide-type.pain { background:rgba(255,160,60,.25); color:#ffcc88 }
+.slide-type.proof { background:rgba(80,160,255,.25); color:#88bbff }
+.slide-type.solution { background:rgba(80,200,120,.25); color:#88ddaa }
+.slide-type.cta { background:rgba(200,80,255,.3); color:#dd99ff }
+.slide-type.brand { background:rgba(255,255,255,.15); color:#ccc }
+.slide-text {
+  font-size:.58rem; line-height:1.4; color:rgba(255,255,255,.9);
+  z-index:1; position:relative; word-break:break-word;
+}
+.slide-text.large-bold { font-size:.7rem; font-weight:700 }
 
-/* charts */
-.charts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-bottom:24px}
-.chart-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:18px}
-.chart-card h3{font-size:.82rem;font-weight:600;margin-bottom:14px;color:var(--text)}
-.chart-wrap{position:relative;height:220px}
+/* ── REEL META ── */
+.reel-meta {
+  padding:10px 14px; display:flex; gap:12px; flex-wrap:wrap;
+  border-top:1px solid var(--bdr); align-items:center;
+}
+.reel-meta-item { font-size:.68rem; color:var(--muted); display:flex; align-items:center; gap:4px }
+.reel-meta-item svg { width:12px; height:12px; fill:var(--muted) }
 
-/* upcoming */
-.upcoming-strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:4px}
-.upcoming-day{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:12px;min-width:120px;flex-shrink:0}
-.upcoming-day.today{border-color:var(--accent);background:var(--accent-d)}
-.ud-date{font-size:.68rem;color:var(--muted);margin-bottom:6px}
-.ud-count{font-family:Georgia,serif;font-size:1.4rem;font-weight:700;color:var(--accent);line-height:1;margin-bottom:8px}
-.ud-platforms{display:flex;flex-direction:column;gap:3px}
-.ud-p{font-size:.66rem;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
-.ud-p-dot{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:4px;vertical-align:middle}
+/* ── STATIC POST BODY ── */
+.post-body { padding:12px 14px }
+.post-content {
+  font-size:.74rem; line-height:1.6; color:var(--text);
+  max-height:140px; overflow:hidden; position:relative;
+  white-space:pre-wrap;
+}
+.post-content.expanded { max-height:none }
+.post-expand {
+  font-size:.68rem; color:var(--acc); cursor:pointer; margin-top:4px;
+  font-weight:600; background:none; border:none; padding:0;
+}
 
-/* empty state */
-.empty{text-align:center;padding:48px 24px;color:var(--muted);font-size:.84rem}
+.post-img {
+  width:100%; aspect-ratio:1/1; object-fit:cover; display:block;
+  background:var(--s2);
+}
 
-/* loading */
-.loading{text-align:center;padding:60px;color:var(--muted)}
-.spinner{display:inline-block;width:24px;height:24px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:12px}
-@keyframes spin{to{transform:rotate(360deg)}}
+/* ── QUICK LINKS ── */
+.qlinks { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:28px }
+.ql {
+  display:flex; align-items:center; gap:6px; padding:7px 14px;
+  border-radius:50px; border:1px solid var(--bdr); background:var(--s1);
+  color:var(--text); text-decoration:none; font-size:.74rem; font-weight:500;
+  transition:.18s var(--ease);
+}
+.ql:hover { transform:translateY(-2px); border-color:rgba(255,255,255,.16) }
+.ql-dot { width:7px; height:7px; border-radius:50% }
+
+/* ── DIVIDER ── */
+.divider { height:1px; background:var(--bdr); margin:20px 0 24px }
+
+@media(max-width:700px){
+  .stats-bar { grid-template-columns:repeat(2,1fr) }
+  .queue-grid { grid-template-columns:1fr }
+  .reel-slide { width:100px; min-height:170px }
+}
 </style>
 </head>
 <body>
 <div class="wrap">
 
-  <!-- header -->
   <header class="hdr">
     <div class="logo">
       <div class="logo-mark">KG</div>
-      <div>
+      <div class="logo-text">
         <h1>Kalnyes Growth</h1>
-        <p>Social Media Command Hub</p>
+        <p>Content Dashboard</p>
       </div>
     </div>
     <div class="hdr-right">
-      <span class="gen-time" id="genTime">Loading...</span>
-      <button class="refresh-btn" onclick="loadData()">↻ Refresh</button>
+      <div class="hdr-clock" id="clock">—</div>
     </div>
   </header>
 
-  <!-- quick links -->
-  <div class="quick-links">
-    <a class="ql" href="https://www.facebook.com/profile.php?id=1075704708966809" target="_blank">
-      <span class="ql-dot" style="--dot-color:var(--fb)"></span>Facebook
+  <!-- STATS -->
+  <div class="sl">Queue Overview</div>
+  <div class="stats-bar" id="statsBar"></div>
+
+  <div class="divider"></div>
+
+  <!-- SOCIAL PLATFORMS -->
+  <div class="sl">Social Media</div>
+  <div class="platforms-grid">
+    <a class="platform-card" href="https://www.facebook.com/profile.php?id=1075704708966809" target="_blank" style="--p-color:var(--fb)">
+      <div class="p-icon"><svg viewBox="0 0 24 24"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3l-.5 3H13v6.8c4.56-.93 8-4.96 8-9.8z"/></svg></div>
+      <div class="p-name">Facebook</div>
+      <div class="p-handle">Kalnyes Growth Page</div>
+      <div class="p-stat" id="fbStat"></div>
+      <div class="p-action">Check posts</div>
     </a>
-    <a class="ql" href="https://www.instagram.com/kalnyesgrowth" target="_blank">
-      <span class="ql-dot" style="--dot-color:var(--ig)"></span>Instagram
+    <a class="platform-card" href="https://www.instagram.com/kalnyesgrowth" target="_blank" style="--p-color:var(--ig)">
+      <div class="p-icon"><svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></div>
+      <div class="p-name">Instagram</div>
+      <div class="p-handle">@kalnyesgrowth</div>
+      <div class="p-stat" id="igStat"></div>
+      <div class="p-action">Check posts</div>
     </a>
-    <a class="ql" href="https://www.linkedin.com/in/kalnye-s-growth-a522a8300/" target="_blank">
-      <span class="ql-dot" style="--dot-color:var(--li)"></span>LinkedIn
+    <a class="platform-card" href="https://www.linkedin.com/in/kalnye-s-growth-a522a8300/" target="_blank" style="--p-color:var(--li)">
+      <div class="p-icon"><svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></div>
+      <div class="p-name">LinkedIn</div>
+      <div class="p-handle">Kalnyes Growth</div>
+      <div class="p-stat" id="liStat"></div>
+      <div class="p-action">Check posts</div>
     </a>
-    <a class="ql" href="https://x.com/KalnyesGrowth" target="_blank">
-      <span class="ql-dot" style="--dot-color:var(--x)"></span>Twitter / X
+    <a class="platform-card" href="https://x.com/KalnyesGrowth" target="_blank" style="--p-color:#9ca3af">
+      <div class="p-icon" style="background:#000;border:1px solid #333"><svg viewBox="0 0 24 24" style="fill:#fff"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.213 5.567zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></div>
+      <div class="p-name">Twitter / X</div>
+      <div class="p-handle">@KalnyesGrowth</div>
+      <div class="p-stat" id="twStat"></div>
+      <div class="p-action">Check posts</div>
+    </a>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- CONTENT QUEUE -->
+  <div class="sl">Content Queue</div>
+  <div class="queue-controls" id="queueControls"></div>
+  <div class="queue-grid" id="queueGrid"></div>
+
+  <div class="divider"></div>
+
+  <!-- QUICK LINKS -->
+  <div class="sl">Quick Links</div>
+  <div class="qlinks">
+    <a class="ql" href="https://www.notion.so/50159d567aa543ec9b9ffab2a22e348d" target="_blank">
+      <span class="ql-dot" style="background:#F7F6F3"></span>Notion Post Log
     </a>
     <a class="ql" href="https://kalnyesgrowth.github.io/KalnyesWeb/" target="_blank">
-      <span class="ql-dot" style="--dot-color:#10b981"></span>Agency Website
+      <span class="ql-dot" style="background:#10b981"></span>Agency Website
     </a>
-    <a class="ql" href="https://docs.google.com/spreadsheets/d/1TMsmahRXutIrK1Ha--LhVSQ0u-6gwTVoVCsrsmlj1Vc/edit" target="_blank">
-      <span class="ql-dot" style="--dot-color:var(--sh)"></span>Post Queue Sheet
+    <a class="ql" href="https://calendly.com/kalnyesgrowth/boost-your-business" target="_blank">
+      <span class="ql-dot" style="background:var(--acc)"></span>Calendly
     </a>
-    <a class="ql" href="https://zapier.com/app/zaps" target="_blank">
-      <span class="ql-dot" style="--dot-color:#FF4A00"></span>Zapier
+    <a class="ql" href="https://kg-post-relay.vercel.app" target="_blank">
+      <span class="ql-dot" style="background:#000"></span>Post Relay (Vercel)
     </a>
-  </div>
-
-  <!-- stats -->
-  <div class="stats" id="statsRow">
-    <div class="loading"><div class="spinner"></div></div>
-  </div>
-
-  <!-- tabs -->
-  <div class="tabs">
-    <button class="tab active" onclick="switchTab('today',this)">Today's Posts</button>
-    <button class="tab" onclick="switchTab('analytics',this)">Analytics</button>
-    <button class="tab" onclick="switchTab('upcoming',this)">Upcoming</button>
-    <button class="tab" onclick="switchTab('queue',this)">Full Queue</button>
-  </div>
-
-  <!-- TODAY -->
-  <div class="pane active" id="pane-today">
-    <div class="sl" id="todayLabel">Today's Content</div>
-    <div class="posts-grid" id="todayGrid">
-      <div class="loading"><div class="spinner"></div><br>Loading posts...</div>
-    </div>
-  </div>
-
-  <!-- ANALYTICS -->
-  <div class="pane" id="pane-analytics">
-    <div class="charts-grid" id="chartsGrid">
-      <div class="chart-card">
-        <h3>Posts by Platform</h3>
-        <div class="chart-wrap"><canvas id="chartPlatform"></canvas></div>
-      </div>
-      <div class="chart-card">
-        <h3>Status Breakdown</h3>
-        <div class="chart-wrap"><canvas id="chartStatus"></canvas></div>
-      </div>
-      <div class="chart-card">
-        <h3>Posts by Theme</h3>
-        <div class="chart-wrap"><canvas id="chartTheme"></canvas></div>
-      </div>
-      <div class="chart-card">
-        <h3>Platform Progress</h3>
-        <div class="chart-wrap"><canvas id="chartProgress"></canvas></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- UPCOMING -->
-  <div class="pane" id="pane-upcoming">
-    <div class="sl">Next 14 Days</div>
-    <div class="upcoming-strip" id="upcomingStrip">
-      <div class="loading"><div class="spinner"></div></div>
-    </div>
-    <br>
-    <div class="sl" id="upcomingDetail-label"></div>
-    <div class="posts-grid" id="upcomingDetail"></div>
-  </div>
-
-  <!-- QUEUE -->
-  <div class="pane" id="pane-queue">
-    <div class="filter-bar">
-      <button class="filter-btn active" data-platform="all" onclick="setFilter('platform','all',this)">All</button>
-      <button class="filter-btn" data-platform="Facebook" onclick="setFilter('platform','Facebook',this)" style="--accent:var(--fb)">Facebook</button>
-      <button class="filter-btn" data-platform="Instagram" onclick="setFilter('platform','Instagram',this)" style="--accent:var(--ig)">Instagram</button>
-      <button class="filter-btn" data-platform="LinkedIn" onclick="setFilter('platform','LinkedIn',this)" style="--accent:var(--li)">LinkedIn</button>
-      <button class="filter-btn" data-platform="Twitter/X" onclick="setFilter('platform','Twitter/X',this)">Twitter/X</button>
-      <button class="filter-btn" data-status="pending" onclick="setFilter('status','pending',this)">Pending</button>
-      <button class="filter-btn" data-status="posted" onclick="setFilter('status','posted',this)">Posted</button>
-      <input class="search-input" id="searchInput" placeholder="Search copy..." oninput="renderQueue()">
-    </div>
-    <div class="queue-wrap">
-      <table>
-        <thead>
-          <tr>
-            <th>Date</th>
-            <th>Platform</th>
-            <th>Theme</th>
-            <th>Copy preview</th>
-            <th>Status</th>
-          </tr>
-        </thead>
-        <tbody id="queueBody">
-          <tr><td colspan="5" class="loading"><div class="spinner"></div></td></tr>
-        </tbody>
-      </table>
-    </div>
-    <div id="queueCount" style="font-size:.72rem;color:var(--muted);margin-top:8px;text-align:right"></div>
+    <a class="ql" href="https://us2.make.com/2293858/scenarios" target="_blank">
+      <span class="ql-dot" style="background:#6D00CC"></span>Make.com (CRM only)
+    </a>
   </div>
 
 </div>
 
 <script>
-const PLATFORM_COLORS = {
-  Facebook:  '#1877F2',
-  Instagram: '#E1306C',
-  LinkedIn:  '#0A66C2',
-  'Twitter/X':'#9ca3af',
-};
+const PLATFORM_COLORS = { Facebook:'#1877F2', Instagram:'#E1306C', 'Twitter/X':'#e7e9ea', LinkedIn:'#0A66C2' };
+const PLATFORM_IDS = { Facebook:'fbStat', Instagram:'igStat', LinkedIn:'liStat', 'Twitter/X':'twStat' };
 
 let DATA = null;
-let filters = { platform: 'all', status: 'all' };
-let charts = {};
+let activeFilter = 'all';
 
+// ── CLOCK ──
+function updateClock() {
+  const now = new Date();
+  const et = now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',second:'2-digit',hour12:true,timeZone:'America/New_York'});
+  const day = now.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',timeZone:'America/New_York'});
+  document.getElementById('clock').textContent = `${day} · ${et} ET`;
+}
+updateClock();
+setInterval(updateClock,1000);
+
+// ── LOAD DATA ──
 async function loadData() {
   try {
-    const r = await fetch('./data.json?t=' + Date.now());
-    DATA = await r.json();
-    render();
+    const res = await fetch('data.json');
+    DATA = await res.json();
+    renderAll();
   } catch(e) {
-    document.getElementById('statsRow').innerHTML = '<div class="empty">⚠️ Could not load data.json — run <code>python3 generate_dashboard_data.py</code> and push to GitHub.</div>';
+    document.getElementById('queueGrid').innerHTML = '<div style="color:var(--muted);font-size:.8rem;padding:20px">Failed to load data.json</div>';
   }
 }
 
-function render() {
+function renderAll() {
   renderStats();
-  renderToday();
-  renderAnalytics();
-  renderUpcoming();
+  renderPlatformStats();
+  renderFilters();
   renderQueue();
-  document.getElementById('genTime').textContent = 'Updated: ' + DATA.generated_at;
 }
 
-// ── STATS ─────────────────────────────────────────────────────────────────────
+// ── STATS BAR ──
 function renderStats() {
-  const s = DATA.stats;
-  const todayFmt = new Date(DATA.today + 'T00:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
-  document.getElementById('statsRow').innerHTML = `
-    <div class="stat highlight">
-      <div class="stat-n">${s.today_count}</div>
-      <div class="stat-l">Today's Posts</div>
-    </div>
-    <div class="stat">
-      <div class="stat-n">${s.total}</div>
-      <div class="stat-l">Total in Queue</div>
-    </div>
-    <div class="stat">
-      <div class="stat-n">${s.posted}</div>
-      <div class="stat-l">Posted</div>
-    </div>
-    <div class="stat">
-      <div class="stat-n">${s.pending}</div>
-      <div class="stat-l">Pending</div>
-    </div>
-    <div class="stat">
-      <div class="stat-n">${s.images_generated}</div>
-      <div class="stat-l">Images Ready</div>
-    </div>
-    <div class="stat">
-      <div class="stat-n">8:17</div>
-      <div class="stat-l">Daily Run (AM)</div>
+  const q = DATA.queue;
+  const reels = q.filter(p => p.format === 'reel').length;
+  const statics = q.filter(p => p.format === 'static').length;
+  const pending = q.filter(p => p.status === 'pending').length;
+  const posted = q.filter(p => p.status === 'posted').length;
+
+  document.getElementById('statsBar').innerHTML = `
+    <div class="stat-card"><div class="stat-num">${q.length}</div><div class="stat-label">Total Posts</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:oklch(75% 0.16 320)">${reels}</div><div class="stat-label">Reels</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--muted)">${statics}</div><div class="stat-label">Static</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:oklch(78% 0.16 85)">${pending}</div><div class="stat-label">Pending</div></div>
+    <div class="stat-card"><div class="stat-num" style="color:var(--ok)">${posted}</div><div class="stat-label">Posted</div></div>
+  `;
+}
+
+// ── PLATFORM STATS ──
+function renderPlatformStats() {
+  const q = DATA.queue;
+  for (const [platform, id] of Object.entries(PLATFORM_IDS)) {
+    const posts = q.filter(p => p.platform === platform);
+    const reels = posts.filter(p => p.format === 'reel').length;
+    const el = document.getElementById(id);
+    if (el) {
+      el.textContent = `${posts.length} posts` + (reels ? ` · ${reels} reels` : '');
+    }
+  }
+}
+
+// ── FILTERS ──
+function renderFilters() {
+  const themes = [...new Set(DATA.queue.map(p => p.theme))].sort();
+  const platforms = [...new Set(DATA.queue.map(p => p.platform))];
+
+  let html = `<button class="q-filter active" data-filter="all">All (${DATA.queue.length})</button>`;
+  html += `<button class="q-filter" data-filter="format:reel">Reels</button>`;
+  html += `<button class="q-filter" data-filter="format:static">Static</button>`;
+  for (const p of platforms) {
+    const count = DATA.queue.filter(x => x.platform === p).length;
+    html += `<button class="q-filter" data-filter="platform:${p}">${p} (${count})</button>`;
+  }
+  document.getElementById('queueControls').innerHTML = html;
+
+  document.querySelectorAll('.q-filter').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.q-filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.filter;
+      renderQueue();
+    });
+  });
+}
+
+// ── RENDER QUEUE ──
+function renderQueue() {
+  let posts = DATA.queue;
+
+  if (activeFilter !== 'all') {
+    const [key, val] = activeFilter.split(':');
+    posts = posts.filter(p => p[key] === val);
+  }
+
+  const grid = document.getElementById('queueGrid');
+  grid.innerHTML = posts.map((post, i) => renderPostCard(post, i)).join('');
+
+  grid.querySelectorAll('.post-expand').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const content = btn.previousElementSibling;
+      content.classList.toggle('expanded');
+      btn.textContent = content.classList.contains('expanded') ? 'Show less' : 'Show more';
+    });
+  });
+}
+
+function renderPostCard(post) {
+  const color = PLATFORM_COLORS[post.platform] || '#888';
+  const isReel = post.format === 'reel';
+  const themeLabel = post.theme.replace(/_/g,' ');
+
+  let body = '';
+  if (isReel && post.slides) {
+    const c1 = post.bg_colors?.[0] || '#0a0a0a';
+    const c2 = post.bg_colors?.[1] || '#1a1a2e';
+
+    const slides = post.slides.map((s, i) => `
+      <div class="reel-slide" style="--slide-c1:${c1};--slide-c2:${c2}">
+        <span class="slide-num">${i+1}</span>
+        <span class="slide-type ${s.type}">${s.type}</span>
+        <div class="slide-text ${s.style === 'large-bold' ? 'large-bold' : ''}">${escHtml(s.text.length > 90 ? s.text.slice(0,87)+'...' : s.text)}</div>
+      </div>
+    `).join('');
+
+    const musicIcon = `<svg viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>`;
+    const clockIcon = `<svg viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/></svg>`;
+    const slidesIcon = `<svg viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12z"/></svg>`;
+
+    body = `
+      <div class="reel-preview">${slides}</div>
+      <div class="reel-meta">
+        <div class="reel-meta-item">${slidesIcon} ${post.slide_count} slides</div>
+        <div class="reel-meta-item">${clockIcon} ${post.total_duration}s</div>
+        <div class="reel-meta-item">${musicIcon} ${post.music?.name || 'No track'}</div>
+        <div class="reel-meta-item" style="color:oklch(70% 0.1 ${post.music?.bpm > 110 ? 0 : 200})">${post.music?.bpm || '—'} BPM</div>
+      </div>
+    `;
+  } else {
+    const imgSection = post.image_url
+      ? `<img class="post-img" src="${post.image_url}" alt="" loading="lazy" onerror="this.style.display='none'">`
+      : '';
+    body = `
+      ${imgSection}
+      <div class="post-body">
+        <div class="post-content">${escHtml(post.content)}</div>
+        <button class="post-expand">Show more</button>
+      </div>
+    `;
+  }
+
+  return `
+    <div class="post-card">
+      <div class="post-head">
+        <div class="post-platform">
+          <span class="post-platform-dot" style="background:${color}"></span>
+          <span class="post-platform-name">${post.platform}</span>
+        </div>
+        <div class="post-badges">
+          <span class="badge badge-theme">${themeLabel}</span>
+          <span class="badge ${isReel ? 'badge-reel' : 'badge-static'}">${isReel ? '▶ Reel' : 'Static'}</span>
+          <span class="badge badge-${post.status}">${post.status}</span>
+        </div>
+      </div>
+      ${body}
     </div>
   `;
 }
 
-// ── POST CARD ─────────────────────────────────────────────────────────────────
-function postCard(post, source) {
-  const p   = post.platform || post.platform || '?';
-  const col = PLATFORM_COLORS[p] || '#888';
-  const copy = source === 'pipeline' ? (post.post_copy||'') : (post.content||'');
-  const theme = post.theme || '';
-  const status = post.status || 'pending';
-  const imgUrl = post.image_url || '';
-  const isWide = (p === 'LinkedIn' || p === 'Twitter/X');
-  const id = 'pc_' + Math.random().toString(36).slice(2,8);
-
-  const imgHtml = imgUrl
-    ? `<img class="pc-image${isWide?' wide':''}" src="${imgUrl}" alt="" loading="lazy" onerror="this.style.display='none'">`
-    : '';
-
-  return `
-  <div class="post-card">
-    <div class="pc-head">
-      <span class="pc-badge" style="background:${col}">${p}</span>
-      <span class="pc-theme">${theme.replace(/_/g,' ')}</span>
-      <span class="pc-status status-${status}">${status}</span>
-    </div>
-    <div class="pc-body">
-      ${imgHtml}
-      <div class="pc-copy" id="${id}">${escHtml(copy)}</div>
-    </div>
-    <div class="pc-actions">
-      <button class="pc-btn" onclick="toggleExpand('${id}',this)">${copy.length > 200 ? 'Expand' : 'Collapse'}</button>
-      <button class="pc-btn copy-btn" onclick="copyText(this,'${id}')">Copy</button>
-    </div>
-  </div>`;
-}
-
-// ── TODAY ─────────────────────────────────────────────────────────────────────
-function renderToday() {
-  const todayFmt = new Date(DATA.today + 'T00:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
-  document.getElementById('todayLabel').textContent = `Today — ${todayFmt}`;
-
-  // combine queue posts for today + pipeline posts (prefer pipeline = freshest)
-  const queueToday = DATA.today_posts || [];
-  const pipeline   = DATA.today_pipeline || [];
-
-  const allPosts = pipeline.length > 0 ? pipeline : queueToday;
-
-  if (!allPosts.length) {
-    document.getElementById('todayGrid').innerHTML = `<div class="empty">No posts scheduled for today yet.<br>The pipeline runs at 8:17 AM.</div>`;
-    return;
-  }
-
-  const source = pipeline.length > 0 ? 'pipeline' : 'queue';
-  document.getElementById('todayGrid').innerHTML = allPosts.map(p => postCard(p, source)).join('');
-}
-
-// ── ANALYTICS ─────────────────────────────────────────────────────────────────
-function renderAnalytics() {
-  const GRID_COLOR = 'rgba(255,255,255,0.05)';
-  const chartDefaults = {
-    color: 'rgba(255,255,255,0.55)',
-    plugins: { legend: { labels: { color: 'rgba(255,255,255,0.55)', boxWidth: 12, font: {size:11} } } },
-  };
-
-  // Chart 1: Posts by platform (bar)
-  const bp = DATA.by_platform;
-  const pLabels = Object.keys(bp);
-  destroyChart('chartPlatform');
-  charts.chartPlatform = new Chart(document.getElementById('chartPlatform'), {
-    type: 'bar',
-    data: {
-      labels: pLabels,
-      datasets: [{
-        label: 'Total',
-        data: pLabels.map(p => bp[p].total),
-        backgroundColor: pLabels.map(p => PLATFORM_COLORS[p] + '99'),
-        borderColor:     pLabels.map(p => PLATFORM_COLORS[p]),
-        borderWidth: 1, borderRadius: 5,
-      }]
-    },
-    options: {
-      ...chartDefaults,
-      responsive: true, maintainAspectRatio: false,
-      plugins: { ...chartDefaults.plugins, legend: { display: false } },
-      scales: {
-        y: { ticks: { color: 'rgba(255,255,255,0.4)', font:{size:10} }, grid: { color: GRID_COLOR } },
-        x: { ticks: { color: 'rgba(255,255,255,0.5)', font:{size:11} }, grid: { display: false } },
-      }
-    }
-  });
-
-  // Chart 2: Status doughnut
-  const s = DATA.stats;
-  destroyChart('chartStatus');
-  charts.chartStatus = new Chart(document.getElementById('chartStatus'), {
-    type: 'doughnut',
-    data: {
-      labels: ['Pending', 'Posted', 'Other'],
-      datasets: [{
-        data: [s.pending, s.posted, s.skipped || 0],
-        backgroundColor: ['oklch(65% 0.12 85 / 0.7)', 'oklch(62% 0.09 155 / 0.8)', 'rgba(255,255,255,0.1)'],
-        borderColor:     ['oklch(65% 0.12 85)', 'oklch(62% 0.09 155)', 'transparent'],
-        borderWidth: 1,
-      }]
-    },
-    options: {
-      ...chartDefaults,
-      responsive: true, maintainAspectRatio: false,
-      cutout: '65%',
-    }
-  });
-
-  // Chart 3: Theme bar
-  const themes = DATA.by_theme || {};
-  const tLabels = Object.keys(themes).slice(0, 10);
-  destroyChart('chartTheme');
-  charts.chartTheme = new Chart(document.getElementById('chartTheme'), {
-    type: 'bar',
-    data: {
-      labels: tLabels.map(t => t.replace(/_/g,' ')),
-      datasets: [{
-        label: 'Posts',
-        data: tLabels.map(t => themes[t]),
-        backgroundColor: 'oklch(62% 0.09 155 / 0.55)',
-        borderColor: 'oklch(62% 0.09 155)',
-        borderWidth: 1, borderRadius: 4,
-      }]
-    },
-    options: {
-      ...chartDefaults,
-      responsive: true, maintainAspectRatio: false,
-      indexAxis: 'y',
-      plugins: { ...chartDefaults.plugins, legend: { display: false } },
-      scales: {
-        x: { ticks: { color: 'rgba(255,255,255,0.4)', font:{size:10} }, grid: { color: GRID_COLOR } },
-        y: { ticks: { color: 'rgba(255,255,255,0.5)', font:{size:10} }, grid: { display: false } },
-      }
-    }
-  });
-
-  // Chart 4: Posted vs Pending per platform (stacked bar)
-  destroyChart('chartProgress');
-  charts.chartProgress = new Chart(document.getElementById('chartProgress'), {
-    type: 'bar',
-    data: {
-      labels: pLabels,
-      datasets: [
-        {
-          label: 'Posted',
-          data: pLabels.map(p => bp[p].posted || 0),
-          backgroundColor: 'oklch(62% 0.09 155 / 0.8)',
-          borderRadius: 4,
-        },
-        {
-          label: 'Pending',
-          data: pLabels.map(p => bp[p].pending || 0),
-          backgroundColor: 'rgba(255,255,255,0.08)',
-          borderRadius: 4,
-        }
-      ]
-    },
-    options: {
-      ...chartDefaults,
-      responsive: true, maintainAspectRatio: false,
-      plugins: { ...chartDefaults.plugins },
-      scales: {
-        x: { stacked: true, ticks: { color: 'rgba(255,255,255,0.5)', font:{size:11} }, grid: { display:false } },
-        y: { stacked: true, ticks: { color: 'rgba(255,255,255,0.4)', font:{size:10} }, grid: { color: GRID_COLOR } },
-      }
-    }
-  });
-}
-
-function destroyChart(id) {
-  if (charts[id]) { charts[id].destroy(); delete charts[id]; }
-}
-
-// ── UPCOMING ──────────────────────────────────────────────────────────────────
-function renderUpcoming() {
-  const strip = document.getElementById('upcomingStrip');
-  const upcoming = DATA.upcoming || [];
-  if (!upcoming.length) { strip.innerHTML = '<div class="empty">No upcoming posts found.</div>'; return; }
-
-  strip.innerHTML = upcoming.map(day => {
-    const d = new Date(day.date + 'T00:00:00');
-    const label = d.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
-    const byP = day.by_platform || {};
-    const pLines = Object.entries(byP).map(([p,c]) =>
-      `<div class="ud-p"><span><span class="ud-p-dot" style="background:${PLATFORM_COLORS[p]||'#666'}"></span>${p}</span><strong>${c}</strong></div>`
-    ).join('');
-    return `
-    <div class="upcoming-day${day.today?' today':''}" onclick="showDayDetail('${day.date}')" style="cursor:pointer">
-      <div class="ud-date">${label}${day.today?' · Today':''}</div>
-      <div class="ud-count">${day.count}</div>
-      <div class="ud-platforms">${pLines}</div>
-    </div>`;
-  }).join('');
-}
-
-function showDayDetail(dateStr) {
-  const day = (DATA.upcoming||[]).find(d => d.date === dateStr);
-  if (!day) return;
-  const label = new Date(dateStr + 'T00:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
-  document.getElementById('upcomingDetail-label').textContent = label + ' — ' + day.count + ' posts';
-  document.getElementById('upcomingDetail').innerHTML = (day.posts||[]).map(p => postCard(p,'queue')).join('');
-}
-
-// ── QUEUE ─────────────────────────────────────────────────────────────────────
-function setFilter(type, val, btn) {
-  filters[type] = val;
-  const group = btn.parentElement.querySelectorAll(`.filter-btn[data-${type}]`);
-  group.forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  renderQueue();
-}
-
-function renderQueue() {
-  const q = DATA ? DATA.queue : [];
-  const search = (document.getElementById('searchInput')?.value || '').toLowerCase();
-
-  const today = DATA ? DATA.today : '';
-
-  const filtered = q.filter(r => {
-    if (filters.platform !== 'all' && r.platform !== filters.platform) return false;
-    if (filters.status !== 'all' && r.status !== filters.status) return false;
-    if (search && !((r.content||'').toLowerCase().includes(search))) return false;
-    return true;
-  });
-
-  document.getElementById('queueCount').textContent = `${filtered.length} of ${q.length} posts`;
-
-  const body = document.getElementById('queueBody');
-  if (!filtered.length) {
-    body.innerHTML = '<tr><td colspan="5" class="empty">No posts match filters.</td></tr>';
-    return;
-  }
-
-  body.innerHTML = filtered.map((r,i) => {
-    const col = PLATFORM_COLORS[r.platform] || '#888';
-    const copy = (r.content||'').replace(/\n/g,' ').slice(0,80) + ((r.content||'').length>80?'…':'');
-    const isPast = r.date < today;
-    const expandId = 'ex_' + i;
-    return `
-    <tr class="${isPast?'td-past':''}" onclick="toggleExpRow('${expandId}',this)" style="cursor:pointer">
-      <td class="td-date">${r.date||''}</td>
-      <td><span class="pc-badge" style="background:${col}">${r.platform}</span></td>
-      <td style="color:var(--muted);font-size:.72rem">${(r.theme||'').replace(/_/g,' ')}</td>
-      <td class="td-copy">${escHtml(copy)}</td>
-      <td><span class="pc-status status-${r.status||'pending'}">${r.status||'pending'}</span></td>
-    </tr>
-    <tr class="expand-row" id="${expandId}">
-      <td colspan="5">
-        <div class="expand-copy">${escHtml(r.content||'')}</div>
-        ${r.image_url ? `<img src="${r.image_url}" style="max-width:200px;border-radius:6px;margin-top:8px" loading="lazy">` : ''}
-      </td>
-    </tr>`;
-  }).join('');
-}
-
-function toggleExpRow(id, row) {
-  const expRow = document.getElementById(id);
-  const isOpen = expRow.style.display === 'table-row';
-  expRow.style.display = isOpen ? 'none' : 'table-row';
-}
-
-// ── HELPERS ───────────────────────────────────────────────────────────────────
-function switchTab(name, btn) {
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-  document.querySelectorAll('.pane').forEach(p => p.classList.remove('active'));
-  btn.classList.add('active');
-  document.getElementById('pane-'+name).classList.add('active');
-}
-
-function toggleExpand(id, btn) {
-  const el = document.getElementById(id);
-  const exp = el.classList.toggle('expanded');
-  btn.textContent = exp ? 'Collapse' : 'Expand';
-}
-
-async function copyText(btn, id) {
-  const el = document.getElementById(id);
-  try {
-    await navigator.clipboard.writeText(el.textContent.trim());
-    btn.textContent = '✓ Copied';
-    btn.classList.add('copied');
-    setTimeout(() => { btn.textContent = 'Copy'; btn.classList.remove('copied'); }, 2000);
-  } catch(e) {}
-}
-
 function escHtml(s) {
-  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
 loadData();
